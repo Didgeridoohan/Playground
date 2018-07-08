@@ -36,8 +36,12 @@ Motorola Moto G5 Plus (7.0)=motorola/potter_n/potter_n:7.0/NPNS25.137-33-11/11:u
 Motorola Moto G5S (7.1.1)=motorola/montana/montana:7.1.1/NPPS26.102-49-8/6:user/release-keys
 Motorola Moto X4 (8.0.0)=motorola/payton/payton:8.0.0/OPWS27.57-25-6-10/12:user/release-keys
 Nvidia Shield K1 (7.0)=nvidia/sb_na_wf/shieldtablet:7.0/NRD90M/1928188_1065.2559:user/release-keys
-OnePlus 3T (8.0.0)=OnePlus/OnePlus3/OnePlus3T:8.0.0/OPR6.170623.013/12041042:user/release-keys
-OnePlus 5T (8.0.0)=OnePlus/OnePlus5T/OnePlus5T:8.0.0/OPR1.170623.032/02040656:user/release-keys
+OnePlus 2 (6.0.1)=OnePlus/OnePlus2/OnePlus2:6.0.1/MMB29M/1447858500:user/release-keys
+OnePlus X (6.0.1)=OnePlus/OnePlus/OnePlus:6.0.1/MMB29M/10281213:user/release-keys
+OnePlus 3 (8.0.0)=OnePlus/OnePlus3/OnePlus3:8.0.0/OPR1.170623.032/05171653:user/release-keys
+OnePlus 3T (8.0.0)=OnePlus/OnePlus3/OnePlus3T:8.0.0/OPR1.170623.032/05171658:user/release-keys
+OnePlus 5 (8.1.0)=OnePlus/OnePlus5/OnePlus5:8.1.0/OPM1.171019.011/06131715:user/release-keys
+OnePlus 5T (8.1.0)=OnePlus/OnePlus5T/OnePlus5T:8.1.0/OPM1.171019.011/06131716:user/release-keys
 OnePlus 6 (8.1.0)=OnePlus/OnePlus6/OnePlus6:8.1.0/OPM1.171019.011/06140300:user/release-keys
 Samsung Galaxy A8 Plus (7.1.1)=samsung/jackpot2ltexx/jackpot2lte:7.1.1/NMF26X/A730FXXU2ARD1:user/release-keys
 Samsung Galaxy Grand Prime (5.0.2)=samsung/fortuna3gdtvvj/fortuna3gdtv:5.0.2/LRX22G/G530BTVJU1BPH4:user/release-keys
@@ -94,12 +98,8 @@ Xiaomi Redmi Note 5 Pro (8.1.0)=xiaomi/whyred/whyred:8.1.0/OPM1.171019.011/V9.5.
 ZTE Axon 7 (7.1.1)=ZTE/P996A01_N/ailsa_ii:7.1.1/NMF26V/20171211.005949:user/release-keys
 ZTE Nubia Z17 (7.1.1)=nubia/NX563J/NX563J:7.1.1/NMF26X/eng.nubia.20171019.101529:user/release-keys
 Zuk Z2 Pro (7.0)=ZUK/z2_row/z2_row:7.0/NRD90M/2.5.435_170525:user/release-keys
-Test OnePlus One (5.1.1)=OnePlus/OnePlus/OnePlus:5.1.1/LMY47V/1436811304:user/release-keys
-Test OnePlus 2 (6.0.1)=OnePlus/OnePlus2/OnePlus2:6.0.1/MMB29M/1447858500:user/release-keys
-Test OnePlus X (6.0.1)=OnePlus/OnePlus/OnePlus:6.0.1/MMB29M/10281213:user/release-keys
-Test OnePlus 3 (8.0.0)=OnePlus/OnePlus3/OnePlus3:8.0.0/OPR1.170623.032/05171653:user/release-keys
-Test OnePlus 5 (8.1.0)=OnePlus/OnePlus5/OnePlus5:8.1.0/OPM1.171019.011/06131715:user/release-keys
-Test OnePlus 5T (8.1.0)=OnePlus/OnePlus5T/OnePlus5T:8.1.0/OPM1.171019.011/06131716:user/release-keys
+Test Google Nexus 5X (8.1.0)=google/bullhead/bullhead:8.1.0/OPM6.171019.030.E1/4805388:user/release-keys
+Test Samsung Galaxy S5 (7.1.2)=samsung/k3gxx/k3g:6.0.1/MMB29k/G900HXXU1CPF2:user/release-keys
 "
 
 if [ -f "$PRINTSFILE" ]; then
