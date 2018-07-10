@@ -98,8 +98,11 @@ Xiaomi Redmi Note 5 Pro (8.1.0)=xiaomi/whyred/whyred:8.1.0/OPM1.171019.011/V9.5.
 ZTE Axon 7 (7.1.1)=ZTE/P996A01_N/ailsa_ii:7.1.1/NMF26V/20171211.005949:user/release-keys
 ZTE Nubia Z17 (7.1.1)=nubia/NX563J/NX563J:7.1.1/NMF26X/eng.nubia.20171019.101529:user/release-keys
 Zuk Z2 Pro (7.0)=ZUK/z2_row/z2_row:7.0/NRD90M/2.5.435_170525:user/release-keys
-Test Google Nexus 5X (8.1.0)=google/bullhead/bullhead:8.1.0/OPM6.171019.030.E1/4805388:user/release-keys
-Test Samsung Galaxy S5 (7.1.2)=samsung/k3gxx/k3g:6.0.1/MMB29k/G900HXXU1CPF2:user/release-keys
+Test Motorola Moto C Plus (7.0)=motorola/panell_23_d/panell_d:7.0/NRD90M.01.032/032:user/release-keys
+Test Motorola Moto C Plus (7.0)=motorola/panell_21_d/panell_d:7.0/NRD90M.03.040/040:user/release-keys
+Test Samsung Galaxy J5 2015 (6.0.1)=samsung/j5nltexx/j5nlte:6.0.1/MMB29M/J500FNXXS1BQG1:user/release-keys
+Test Xiaomi Mi 4C (7.0)=Xiaomi/libra/libra:7.0/NRD90M/V9.6.2.0.NXKCNFD:user/release-keys
+Test Xiaomi Mi Mix 2S (8.0.0)=Xiaomi/polaris/polaris:8.0.0/OPR1.170623.032/V9.5.19.0.ODGMIFA:user/release-keys
 "
 
 if [ -f "$PRINTSFILE" ]; then
