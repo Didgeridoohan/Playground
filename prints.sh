@@ -10,7 +10,7 @@ PRINTSFILE=/sdcard/printslist
 
 # Certified fingerprints
 PRINTSLIST="
-samsung/j7popltespr/j7popltespr:7.0/NRD90M/J727PVPU4ARG2:user/release-keys
+Samsung Galaxy J7 (7.0)=samsung/j7popltespr/j7popltespr:7.0/NRD90M/J727PVPU4ARG2:user/release-keys
 "
 
 if [ -f "$PRINTSFILE" ]; then
