@@ -10,6 +10,9 @@ PRINTSFILE=/sdcard/printslist
 
 # Certified fingerprints
 PRINTSLIST="
+Essential PH-1 (9)=essential/mata/mata:9/PPR1.180610.091/249:user/release-keys§2018-09-05
+Nokia 7 Plus (9)=Nokia/Onyx_00WW/B2N_sprout:9/PPR1.180610.011/00WW_3_22C:user/release-keys§2018-09-05
+Xiaomi Mi Mix 2s (9)=Xiaomi/polaris/polaris:9/PKQ1.180708.001/8.8.16:user/release-keys§2018-09-05
 "
 
 if [ -f "$PRINTSFILE" ]; then
