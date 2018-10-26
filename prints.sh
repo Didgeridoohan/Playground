@@ -10,6 +10,7 @@ PRINTSFILE=/sdcard/printslist
 
 # Certified fingerprints
 PRINTSLIST="
+Huawei P9 Plus (7.0)=HUAWEI/VIE-L09/HWVIE:7.0/HUAWEIVIE-L09/C432B387:user/release-keys__2018-07-01
 "
 
 if [ -f "$PRINTSFILE" ]; then
