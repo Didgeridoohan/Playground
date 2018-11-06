@@ -16,4 +16,5 @@ Google Pixel 2 XL (9)=google/taimen/taimen:9/PQ1A.181105.017.A1/5081125:user/rel
 Google Pixel 3 (9)=google/blueline/blueline:9/PQ1A.181105.017.A1/5081125:user/release-keys__2018-11-05
 Google Pixel 3 XL (9)=google/crosshatch/crosshatch:9/PQ1A.181105.017.A1/5081125:user/release-keys__2018-11-05
 Huawei P8 Lite 2017 (8.0.0)=HUAWEI/PRA-LX1/HWPRA-H:8.0.0/HUAWEIPRA-LX1/386(C432):user/release-keys__2018-09-01
+Samsung Galaxy Note 3 (5.0)=samsung/hltezh/hlte:5.0/LRX21V/N9005ZSUGPJ2:user/release-keys
 "
