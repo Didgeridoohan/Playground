@@ -8,5 +8,6 @@ PRINTSTRANSF=1
 
 # Certified fingerprints
 PRINTSLIST="
-Xiaomi/dipper/dipper:9/PKQ1.180729.001/8.11.15:user/release-key
+Huawei P20 Pro (8.1.0)=HUAWEI/CLT-L29/HWCLT:8.1.0/HUAWEICLT-L29/128(C432):user/release-keys
+Xiaomi Mi 8 (9)=Xiaomi/dipper/dipper:9/PKQ1.180729.001/8.11.15:user/release-key
 "
