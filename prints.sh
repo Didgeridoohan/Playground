@@ -8,9 +8,5 @@ PRINTSTRANSF=1
 
 # Certified fingerprints
 PRINTSLIST="
-LG V30 H930 (8.0.0)=lge/joan_global_com/joan:8.0.0/OPR1.170623.026/181381736b4e9:user/release-keys
-Huawei P20 Pro (8.1.0)=HUAWEI/CLT-L29/HWCLT:8.1.0/HUAWEICLT-L29/128(C432):user/release-keys
-Moto E5 Plus (8.0.0)=motorola/hannah_sprint/hannah:8.0.0/OCPS27.91-32-4/4:user/release-keys__2018-10-01
-Xiaomi Mi 8 (8.1.0)=Xiaomi/dipper/dipper:8.1.0/OPM1.171019.011/V9.5.5.0.OEAMIFA:user/release-keys
-Xiaomi Mi 8 (9)=Xiaomi/dipper/dipper:9/PKQ1.180729.001/8.11.15:user/release-key
+
 "
