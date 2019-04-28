@@ -18,7 +18,7 @@ LG G6 US997 (8.0.0)=lge/lucye_nao_us/lucye:8.0.0/OPR1.170623.032/181521705197f:u
 LG V20 H918 (8.0.0)=lge/elsa_tmo_us/elsa:8.0.0/OPR1.170623.032/1831917495b33:user/release-keys__2018-11-01
 LG V20 H910 (8.0.0)=lge/elsa_att_us/elsa:8.0.0/OPR1.170623.032/181871124f959:user/release-keys__2018-06-01
 LG V20 VS995 (8.0.0)=lge/elsa_vzw/elsa:8.0.0/OPR1.170623.032/183141449275f:user/release-keys__2018-10-01
-Oppo Neo7 A33w (5.1)=OPPO/A33w/A33w:5.1/LMY47I/1440568801:user/release-keys
-Oppo Neo7 A1603 (5.1)=OPPO/A1603/A1603:5.1/LMY47I/1489407760:user/release-keys
+OPPO Neo 7 A33w (5.1)=OPPO/A33w/A33w:5.1/LMY47I/1487829433:user/release-keys
+OPPO Neo 7 A1603 (5.1)=OPPO/A1603/A1603:5.1/LMY47I/1489407760:user/release-keys
 Samsung Galaxy S7 Edge (8.0.0)=samsung/hero2ltexx/hero2lte:8.0.0/R16NW/G935FXXS4ESC3:user/release-keys__2019-03-01
 "
