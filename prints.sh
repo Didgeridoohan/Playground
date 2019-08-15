@@ -8,6 +8,7 @@ PRINTSTRANSF=1
 
 # Certified fingerprints
 PRINTSLIST="
+Asus ZenFone 5Z (9)=asus/WW_Z01RD/ASUS_Z01R_1:9/PPR1.180610.009/WW_90.11.162.72_20190531:user/release-keys__2019-05-01
 OnePlus 3 (9)=OnePlus/OnePlus3/OnePlus3:9/PKQ1.181203.001/1907311932:user/release-keys__2019-08-01
 OnePlus 3T (9)=OnePlus/OnePlus3/OnePlus3T:9/PKQ1.181203.001/1907311932:user/release-keys__2019-08-01
 OnePlus 5 (9)=OnePlus/OnePlus5/OnePlus5:9/PKQ1.180716.001/1907311824:user/release-keys__2019-08-01
