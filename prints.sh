@@ -18,8 +18,9 @@ Google Pixel 3 (10)=google/blueline/blueline:10/QP1A.191005.007/5878874:user/rel
 Google Pixel 3 XL (10)=google/crosshatch/crosshatch:10/QP1A.191005.007/5878874:user/release-keys__2019-10-05
 Google Pixel 3a (10)=google/sargo/sargo:10/QP1A.191005.007/5878874:user/release-keys__2019-10-05
 Google Pixel 3a XL (10)=google/bonito/bonito:10/QP1A.191005.007/5878874:user/release-keys__2019-10-05
+Huawei Mate 20 Pro (9)=HUAWEI/LYA-L29/HWLYA:9/HUAWEILYA-L29/320C432:user/release-keys__2019-08-01
 Motorola Moto G5S (8.1.0)=motorola/montana/montana:8.1.0/OPPS28.65-37-7-11/7f8a6:user/release-keys__2019-08-01
-Nokia 6.1 Plus (9)=Nokia/Dragon_00WW/DRG_sprout:9/PPR1.180610.011/00WW_3_54J:user/release-keys__2019-08-
+Nokia 6.1 Plus (9)=Nokia/Dragon_00WW/DRG_sprout:9/PPR1.180610.011/00WW_3_54J:user/release-keys__2019-08-01
 OnePlus One (6.0.1)=oneplus/bacon/A0001:6.0.1/MMB29X/ZNH0EAS2JK:user/release-keys
 OnePlus 5 (9)=OnePlus/OnePlus5/OnePlus5:9/PKQ1.180716.001/1910081949:user/release-keys__2019-10-01
 OnePlus 5T (9)=OnePlus/OnePlus5T/OnePlus5T:9/PKQ1.180716.001/1910081948:user/release-keys__2019-10-01
@@ -34,4 +35,5 @@ Xiaomi Mi A2 (9)=xiaomi/jasmine/jasmine_sprout:9/PKQ1.180904.001/V10.0.14.0.PDIM
 Xiaomi Mi A3 (9)=Xiaomi/laurel_sprout/laurel_sprout:9/PKQ1.190416.001/V10.3.6.0.PFQMIXM:user/release-keys__2019-09-05
 Xiaomi Pocophone F1 (9)=Xiaomi/beryllium/beryllium:9/PKQ1.180729.001/V10.3.8.0.PEJMIXM:user/release-keys__2019-09-01
 Xiaomi Redmi K20 Pro (10)=Xiaomi/raphael/raphael:10/QKQ1.190716.003/V10.4.6.0.QFKCNXM:user/release-keys__2019-09-05
+Xiaomi Redmi Note 5 Pro (9)=xiaomi/whyred/whyred:9/PKQ1.180904.001/V10.3.2.0.PEIMIXM:user/release-keys__2019-08-05
 "
