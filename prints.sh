@@ -29,7 +29,6 @@ OnePlus 7 Pro (10)=OnePlus/OnePlus7Pro/OnePlus7Pro:10/QKQ1.190716.003/1909010630
 Samsung Galaxy A5 2017 (8.0.0)=samsung/a5y17ltexx/a5y17lte:8.0.0/R16NW/A520FXXUBCSI1:user/release-keys__2019-09-01
 Walmart Onn 8 (9)=onn/ONA19TB002/ONA19TB002:9/PPR1.180610.011/1551232410:user/release-keys__2019-01-05
 Xiaomi Mi 9 Lite (9)=Xiaomi/pyxis/pyxis:9/PKQ1.181121.001/V10.3.1.0.PFCMIXM:user/release-keys__2019-08-01
-Xiaomi Mi 9 SE (9)=xiaomi/grus_eea/grus:9/PKQ1/181121.001/V10.3.9.0.PFBEUXM:user/release-keys__2019-08-01
 Xiaomi Mi 9T (9)=Xiaomi/davinci_eea/davinci:9/PKQ1.190302.001/V10.3.12.0.PFJEUXM:user/release-keys__2019-07-01
 Xiaomi Mi A2 (9)=xiaomi/jasmine/jasmine_sprout:9/PKQ1.180904.001/V10.0.14.0.PDIMIXM:user/release-keys__2019-09-05
 Xiaomi Mi A3 (9)=Xiaomi/laurel_sprout/laurel_sprout:9/PKQ1.190416.001/V10.3.6.0.PFQMIXM:user/release-keys__2019-09-05
