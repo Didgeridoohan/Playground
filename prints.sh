@@ -32,7 +32,7 @@ Xiaomi Mi 9 Lite (9)=Xiaomi/pyxis/pyxis:9/PKQ1.181121.001/V10.3.1.0.PFCMIXM:user
 Xiaomi Mi 9T (9)=Xiaomi/davinci_eea/davinci:9/PKQ1.190302.001/V10.3.12.0.PFJEUXM:user/release-keys__2019-07-01
 Xiaomi Mi A2 (9)=xiaomi/jasmine/jasmine_sprout:9/PKQ1.180904.001/V10.0.14.0.PDIMIXM:user/release-keys__2019-09-05
 Xiaomi Mi A3 (9)=Xiaomi/laurel_sprout/laurel_sprout:9/PKQ1.190416.001/V10.3.6.0.PFQMIXM:user/release-keys__2019-09-05
-Xiaomi Pocophone F1 (9)=Xiaomi/beryllium/beryllium:9/PKQ1.180729.001/V10.3.8.0.PEJMIXM:user/release-keys__2019-09-01
+Xiaomi Pocophone F1 (9)=Xiaomi/beryllium/beryllium:9/PKQ1.180729.001/V11.0.5.0.PEJMIXM:user/release-keys__2019-10-01
 Xiaomi Redmi K20 Pro (10)=Xiaomi/raphael/raphael:10/QKQ1.190716.003/V10.4.6.0.QFKCNXM:user/release-keys__2019-09-05
 Xiaomi Redmi Note 5 Pro (9)=xiaomi/whyred/whyred:9/PKQ1.180904.001/V10.3.2.0.PEIMIXM:user/release-keys__2019-08-05
 "
