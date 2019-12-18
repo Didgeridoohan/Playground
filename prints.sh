@@ -22,5 +22,5 @@ OnePlus 3 (9)=OnePlus/OnePlus3/OnePlus3:9/PKQ1.181203.001/1911042107:user/releas
 OnePlus 3T (9)=OnePlus/OnePlus3/OnePlus3T:9/PKQ1.181203.001/1911042108:user/release-keys__2019-10-01
 OnePlus 6 (10)=OnePlus/OnePlus6/OnePlus6:10/QKQ1.190716.003/1911142022:user/release-keys__2019-10-01
 OnePlus 6T (10)=OnePlus/OnePlus6T/OnePlus6T:10/QKQ1.190716.003/1911142147:user/release-keys__2019-10-01
-Redmi Note 8 Pro (9)=Redmi/begoniain/begoniain:9/PPR1.180610.011/V10.4.4.0.PGGINXM:user/release-keys__2019-09-01
+Xiaomi Redmi Note 8 Pro (9)=Redmi/begoniain/begoniain:9/PPR1.180610.011/V10.4.4.0.PGGINXM:user/release-keys__2019-09-01
 "
