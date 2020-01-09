@@ -17,6 +17,7 @@ Google Pixel 3a (10)=google/sargo/sargo:10/QQ1A.200105.002/6031801:user/release-
 Google Pixel 3a XL (10)=google/bonito/bonito:10/QQ1A.200105.002/6031801:user/release-keys__2020-01-01
 Google Pixel 4 (10)=google/flame/flame:10/QQ1B.200105.004/6031802:user/release-keys__2020-01-01
 Google Pixel 4 XL (10)=google/coral/coral:10/QQ1B.200105.004/6031802:user/release-keys__2020-01-01
+Motorola Moto G7 Power (9)=motorola/ocean/ocean:9/PPOS29.114-134-7/d9234:user/release-keys__2019-12-05
 OnePlus 5 (9)=OnePlus/OnePlus5/OnePlus5:9/PKQ1.180716.001/1912311102:user/release-keys__2019-12-01
 OnePlus 5T (9)=OnePlus/OnePlus5T/OnePlus5T:9/PKQ1.180716.001/1912311102:user/release-keys__2019-12-01
 OnePlus 6T (10)=OnePlus/OnePlus6T/OnePlus6T:10/QKQ1.190716.003/1912142009:user/release-keys__2019-11-01
