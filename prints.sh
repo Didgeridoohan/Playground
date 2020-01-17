@@ -8,6 +8,7 @@ PRINTSTRANSF=1
 
 # Certified fingerprints
 PRINTSLIST="
+Huawei P20 (9)=HUAWEI/EML-L09/HWEML:9/HUAWEIEML-L09/9.1.0.345C109:user/release-keys__2019-10-06
 Motorola Moto G7 Power (9)=motorola/ocean/ocean:9/PPOS29.114-134-7/d9234:user/release-keys__2019-12-01
 OnePlus 7 Pro NR GM1920 (9)=OnePlus/OnePlus7ProNR_EEA/OnePlus7ProNR:9/PKQ1.190223.001/1912171007:user/release-keys__2019-12-01
 Razer Phone 2 (9)=razer/cheryl2/aura:9/P-MR2-RC001-RZR-190914/3123:user/release-keys__2019-09-05
