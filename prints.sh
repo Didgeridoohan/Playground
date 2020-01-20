@@ -23,4 +23,5 @@ OnePlus 7T HD1903 (10)=OnePlus/OnePlus7T_EEA/OnePlus7T:10/QKQ1.190716.003/191206
 OnePlus 7T Pro HD1911/HD1917 (10)=OnePlus/OnePlus7TPro/OnePlus7TPro:10/QKQ1.190716.003/1912060020:user/release-keys__2019-11-01
 OnePlus 7T Pro HD1913 (10)=OnePlus/OnePlus7TPro_EEA/OnePlus7TPro:10/QKQ1.190716.003/1912060020:user/release-keys__2019-11-01
 OnePlus 7T Pro NR HD1925 (10)=OnePlus/OnePlus7TProNR/OnePlus7TProNR:10/QKQ1.190716.003/2001101147:user/release-keys__2019-12-01
+Samsung Galaxy A7 (8.0.0)=samsung/a7y17ltexx/a7y17lte:8.0.0/R16NW/A720FXXU9CSK3:user/release-keys__2019-12-01
 "
