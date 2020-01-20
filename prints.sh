@@ -9,6 +9,7 @@ PRINTSTRANSF=1
 # Certified fingerprints
 PRINTSLIST="
 Motorola Moto G5S Plus (8.1.0)=motorola/sanders_n/sanders_n:8.1.0/OPS28.65-36-14/63857:user/release-keys__2019-08-01
+OnePlus 5T (7.1.1 & 8.0.0)=OnePlus/OnePlus5T/OnePlus5T:7.1.1/NMF26X/12152312:user/release-keys;OnePlus/OnePlus5T/OnePlus5T:8.0.0/OPR1.170623.032/02040656:user/release-keys
 OnePlus 6 (10)=OnePlus/OnePlus6/OnePlus6:10/QKQ1.190716.003/1912142009:user/release-keys__2019-11-01
 OnePlus 6T T-Mobile (9)=OnePlus/OnePlus6TSingle/OnePlus6TSingle:9/PKQ1.180716.001/1810291147:user/release-keys__2018-11-01
 OnePlus 7 GM1901/GM1905 (10)=OnePlus/OnePlus7/OnePlus7:10/QKQ1.190716.003/1912141900:user/release-keys__2019-11-01
