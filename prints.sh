@@ -22,5 +22,4 @@ OnePlus 7T HD1903 (10)=OnePlus/OnePlus7T_EEA/OnePlus7T:10/QKQ1.190716.003/191206
 OnePlus 7T Pro HD1911/HD1917 (10)=OnePlus/OnePlus7TPro/OnePlus7TPro:10/QKQ1.190716.003/1912060020:user/release-keys__2019-11-01
 OnePlus 7T Pro HD1913 (10)=OnePlus/OnePlus7TPro_EEA/OnePlus7TPro:10/QKQ1.190716.003/1912060020:user/release-keys__2019-11-01
 OnePlus 7T Pro NR HD1925 (10)=OnePlus/OnePlus7TProNR/OnePlus7TProNR:10/QKQ1.190716.003/2001101147:user/release-keys__2019-12-01
-Samsung Galaxy A20 (9)=samsung/a20cs/a20:9/PPR1.180610.011/A205WVLU1ASE7:user/release-keys__2019-08-01
 "
