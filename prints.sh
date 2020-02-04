@@ -17,6 +17,7 @@ Google Pixel 3a (10)=google/sargo/sargo:10/QQ1A.200205.002/6084386:user/release-
 Google Pixel 3a XL (10)=google/bonito/bonito:10/QQ1A.200205.002/6084386:user/release-keys__2020-02-05
 Google Pixel 4 (10)=google/flame/flame:10/QQ1B.200205.002/6084387:user/release-keys__2020-02-05
 Google Pixel 4 XL (10)=google/coral/coral:10/QQ1B.200205.002/6084387:user/release-keys__2020-02-05
+Motorola Moto G7 XT1962-1 (9)=motorola/river/river:9/PPOS29.114-134-7/b6963:user/release-keys__2019-12-01
 Nokia 6 TA-1021 (9)=Nokia/TA-1021_00WW/PLE:9/PKQ1.181105.001/00WW_6_19C:user/release-keys__2020-01-01
 Nokia 6 TA-1025 (9)=Nokia/TA-1025_00WW/PLE:9/PKQ1.181105.001/00WW_6_19C:user/release-keys__2020-01-01
 Nokia 6 TA-1033 (9)=Nokia/TA-1033_00WW/PLE:9/PKQ1.181105.001/00WW_6_19C:user/release-keys__2020-01-01
