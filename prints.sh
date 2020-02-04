@@ -27,7 +27,8 @@ Nokia 7.1 TA-1095 (10)=Nokia/Crystal_00WW/CTL_sprout:10/QKQ1.190828.002/00WW_4_0
 OnePlus 5T (9)=OnePlus/OnePlus5T/OnePlus5T:9/PKQ1.180716.001/1912311102:user/release-keys__2019-12-01
 OnePlus 6 (10)=OnePlus/OnePlus6/OnePlus6:10/QKQ1.190716.003/2001151848:user/release-keys__2019-12-01
 OnePlus 6T (10)=OnePlus/OnePlus6T/OnePlus6T:10/QKQ1.190716.003/2001151848:user/release-keys__2019-12-01
+Xiaomi Redmi 8 (9)=Xiaomi/olive/olive:9/PKQ1.190319.001/V11.0.7.0.PCNCNXM:user/release-keys__2019-11-25
 "
 
 # Contributors:
-# @Max1Truc, @Some_Random_Username, @ipdev
+# @Max1Truc, @Some_Random_Username, @ipdev, @ArkBlitz
