@@ -17,6 +17,8 @@ Google Pixel 3a (10)=google/sargo/sargo:10/QQ1A.200205.002/6084386:user/release-
 Google Pixel 3a XL (10)=google/bonito/bonito:10/QQ1A.200205.002/6084386:user/release-keys__2020-02-05
 Google Pixel 4 (10)=google/flame/flame:10/QQ1B.200205.002/6084387:user/release-keys__2020-02-05
 Google Pixel 4 XL (10)=google/coral/coral:10/QQ1B.200205.002/6084387:user/release-keys__2020-02-05
+Huawei Mate 20 Pro (9)=HUAWEI/LYA-L29/HWLYA:9/HUAWEILYA-L29/346C432:user/release-keys__2019-10-06
+Huawei Mate 20 Pro (9)=HUAWEI/LYA-L29/HWLYA:9/HUAWEILYA-L29/358C432:user/release-keys__2019-11-01
 Motorola Moto G7 XT1962-1 (9)=motorola/river/river:9/PPOS29.114-134-7/b6963:user/release-keys__2019-12-01
 Nokia 6 TA-1021 (9)=Nokia/TA-1021_00WW/PLE:9/PKQ1.181105.001/00WW_6_19C:user/release-keys__2020-01-01
 Nokia 6 TA-1025 (9)=Nokia/TA-1025_00WW/PLE:9/PKQ1.181105.001/00WW_6_19C:user/release-keys__2020-01-01
@@ -27,8 +29,8 @@ Nokia 7.1 TA-1095 (10)=Nokia/Crystal_00WW/CTL_sprout:10/QKQ1.190828.002/00WW_4_0
 OnePlus 5T (9)=OnePlus/OnePlus5T/OnePlus5T:9/PKQ1.180716.001/1912311102:user/release-keys__2019-12-01
 OnePlus 6 (10)=OnePlus/OnePlus6/OnePlus6:10/QKQ1.190716.003/2001151848:user/release-keys__2019-12-01
 OnePlus 6T (10)=OnePlus/OnePlus6T/OnePlus6T:10/QKQ1.190716.003/2001151848:user/release-keys__2019-12-01
-Xiaomi Redmi 8 (9)=Xiaomi/olive/olive:9/PKQ1.190319.001/V11.0.7.0.PCNCNXM:user/release-keys__2019-11-25
+Xiaomi Redmi 8 (9)=Xiaomi/olive/olive:9/PKQ1.190319.001/V11.0.7.0.PCNCNXM:user/release-keys__2019-12-01
 "
 
 # Contributors:
-# @Max1Truc, @Some_Random_Username, @ipdev, @ArkBlitz
+# @Max1Truc, @Some_Random_Username, @ipdev, @ArkBlitz, @oslo83
