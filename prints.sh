@@ -13,8 +13,8 @@ OnePlus 7 Pro GM1911/1917 (10)=OnePlus/OnePlus7Pro/OnePlus7Pro:10/QKQ1.190716.00
 OnePlus 7T Pro HD1911/1917 (10)=OnePlus/OnePlus7TPro/OnePlus7TPro:10/QKQ1.190716.003/2002022020:user/release-keys__2020-01-01
 OnePlus 7T Pro HD1913 (10)=OnePlus/OnePlus7TPro_EEA/OnePlus7TPro:10/QKQ1.190716.003/2002022020:user/release-keys__2020-01-01
 OnePlus 7T Pro NR HD1925 (10)=OnePlus/OnePlus7TProNR/OnePlus7TProNR:10/QKQ1.190716.003/2002051152:user/release-keys__2019-12-01
-Xiaomi Mi Pad 7.9 (4.4.4)=Xiaomi/mocha/mocha:4.4.4/KTU84P/V7.5.2.0.KXFMIDE:user/release-keys
+Xiaomi Mi Pad (4.4.4)=Xiaomi/mocha/mocha:4.4.4/KTU84P/V7.5.2.0.KXFMIDE:user/release-keys
 "
 
 # Contributors:
-# @Some_Random_Username
+# @Some_Random_Username, @Zachary_Foxx
