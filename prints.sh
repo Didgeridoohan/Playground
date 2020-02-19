@@ -8,9 +8,8 @@ PRINTSTRANSF=1
 
 # Certified fingerprints
 PRINTSLIST="
-Nokia 6.1 Plus (10)=
-OnePlus 7 (GM1903) (10)=
-OnePlus 7 Pro(GM1913) (10)=
+OnePlus 7T HD1903 (10)=OnePlus/OnePlus7T_EEA/OnePlus7T:10/QKQ1.190716.003/2002022021:user/release-keys__2020-01-01
+OnePlus 7T HD1901/1905 (10)=OnePlus/OnePlus7T/OnePlus7T:10/QKQ1.190716.003/2002022020:user/release-keys__2020-01-01
 "
 
 # Contributors:
