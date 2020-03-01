@@ -12,4 +12,4 @@ Xiaomi Redmi 7 (9):Xiaomi:Redmi 7=xiaomi/onc/onc:9/PKQ1.181021.001/V11.0.3.0.PFL
 "
 
 # Contributors:
-# @loco1911, @Some_Random_Username
+# @loco1911
