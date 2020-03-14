@@ -20,4 +20,4 @@ Xiaomi Mi Mix 3 (10)=Xiaomi/perseus/perseus:10/QKQ1.190828.002/V11.0.3.0.QEEMIXM
 "
 
 # Contributors:
-# @Some_Random_Username, @yazakachka, @OhioYJ, @Lfly, @bagdas
+# @Some_Random_Username, @yazakachka, @OhioYJ, @Lfly, @bagdas, simonsmh @ GitHub
