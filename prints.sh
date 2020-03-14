@@ -16,7 +16,7 @@ Samsung Tab S5e SM-T720 (9):samsung:SM-T720=samsung/gts4lvwifixx/gts4lvwifi:9/PP
 Xiaomi Mi 10 (10):Xiaomi:Mi 10=Xiaomi/umi/umi:10/QKQ1.191117.002/V11.0.15.0.QJBCNXM:user/release-keys__2020-02-01
 Xiaomi Mi 10 Pro (10):Xiaomi:Mi 10 Pro=Xiaomi/cmi/cmi:10/QKQ1.191117.002/V11.0.13.0.QJACNXM:user/release-keys__2020-02-01
 Xiaomi Mi Mix 2S (10)=Xiaomi/polaris/polaris:10/QKQ1.190828.002/V11.0.1.0.QDGCNXM:user/release-keys__2019-12-01
-Xiaomi Mi Mix 3 (10)=Xiaomi/perseus/perseus:10/QKQ1.190828.002/V11.0.3.0.QEEMIXM:user/release-keys__2019-11-01
+Xiaomi Mi Mix 3 (10)=Xiaomi/perseus/perseus:10/QKQ1.190828.002/V11.0.3.0.QEEMIXM:user/release-keys__2020-02-01
 "
 
 # Contributors:
