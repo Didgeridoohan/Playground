@@ -18,7 +18,6 @@ Google Pixel 4 (10):Google:Pixel 4=google/flame/flame:10/QQ2A.200405.005/6254899
 Google Pixel 4 XL (10):Google:Pixel 4 XL=google/coral/coral:10/QQ2A.200405.005/6254899:user/release-keys__2020-04-05
 Huawei P20 EML-L09 (9)=HUAWEI/EML-L09/HWEML:9/HUAWEIEML-L09/9.1.0.381C109:user/release-keys__2020-01-01
 Meizu X8 (8.1.0):Meizu:meizu X8=Meizu/meizu_X8/X8:8.1.0/OPM1.171019.026/1556996821:user/release-keys__2019-04-01
-Motorola Moto E5 Plus (8.0.0):Motorola:moto e5 plus=motorola/hannah_t/hannah:8.0.0/OCPS27.91-150-11-4/8:user/release-keys
 Motorola Moto G7 (9)=motorola/river/river:9/PPOS29.114-134-10/ca814:user/release-keys__2020-02-01
 OnePlus 5 (10)=OnePlus/OnePlus5/OnePlus5:10/QKQ1.191014.012/2003241826:user/release-keys__2020-02-05
 OnePlus 7 Pro GM1913 (10)=OnePlus/OnePlus7Pro_EEA/OnePlus7Pro:10/QKQ1.190716.003/2003131900:user/release-keys__2020-03-01
@@ -31,4 +30,4 @@ Xiaomi Mi 6 (9):Xiaomi:MI 6=Xiaomi/sagit/sagit:9/PKQ1.190118.001/V11.0.6.0.PCAMI
 "
 
 # Contributors:
-# wh0dat @ GitHub, @Some_Random_Username, @ipdev, @ricaoalberto, @xiangnan
+# @Some_Random_Username, @ipdev, @ricaoalberto, @xiangnan
