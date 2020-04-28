@@ -19,4 +19,4 @@ Xiaomi Mi A1 (7.1.2 & 8.0.0 & 8.1.0 & 9):Xiaomi:Mi A1=xiaomi/tissot/tissot_sprou
 "
 
 # Contributors:
-# @Displax, wunerrahdev @ GitHub, @ipdev
+# @Displax, @wunerrahdev, @ipdev
