@@ -12,4 +12,4 @@ Xiaomi Mi 8 (10):Xiaomi:MI 8=Xiaomi/dipper/dipper:10/QKQ1.190828.002/V11.0.3.0.Q
 "
 
 # Contributors:
-# 
+# @s3v3ru5
