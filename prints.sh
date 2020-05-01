@@ -16,6 +16,7 @@ OnePlus 7 Pro NR Spr GM1925 (10)=OnePlus/OP7ProNRSpr/OP7ProNRSpr:10/QKQ1.190716.
 OnePlus 8 IN2011 (10):OnePlus:IN2011=OnePlus/OnePlus8_IND/OnePlus8:10/QKQ1.191222.002/2004210400:user/release-keys__2020-03-01
 OnePlus 8 IN2013 (10):OnePlus:IN2013=OnePlus/OnePlus8_EEA/OnePlus8:10/QKQ1.191222.002/2004210405:user/release-keys__2020-03-01
 OnePlus 8 IN2015 (10):OnePlus:IN2015=OnePlus/OnePlus8/OnePlus8:10/QKQ1.191222.002/2004210405:user/release-keys__2020-03-01
+OnePlus 8 IN2017 (10):OnePlus:IN2017=OnePlus/OnePlus8TMO/OnePlus8TMO:10/QKQ1.191222.002/2004111424:user/release-keys__2020-04-01
 OnePlus 8 Pro IN2021 (10):OnePlus:IN2021=OnePlus/OnePlus8Pro_IND/OnePlus8Pro:10/QKQ1.191222.002/2004210408:user/release-keys__2020-03-01
 OnePlus 8 Pro IN2023 (10):OnePlus:IN2023=OnePlus/OnePlus8Pro/OnePlus8Pro:10/QKQ1.191222.002/2004210418:user/release-keys__2020-03-01
 OnePlus 8 Pro IN2025 (10):OnePlus:IN2025=OnePlus/OnePlus8Pro_EEA/OnePlus8Pro:10/QKQ1.191222.002/2004210410:user/release-keys__2020-03-01
