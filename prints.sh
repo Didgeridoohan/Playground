@@ -8,9 +8,8 @@ PRINTSTRANSF=1
 
 # Certified fingerprints
 PRINTSLIST="
-POCO F2 Pro (10):POCO:POCO F2 Pro=POCO/lmi_eea/lmi:10/QKQ1.191117.002/V11.0.6.0.QJKEUXM:user/release-keys__2020-04-01
-Redmi K30 Pro Zoom Edition (10):Redmi:Redmi K30 Pro Zoom Edition=Redmi/lmipro/lmipro:10/QKQ1.191117.002/V11.0.16.0.QJKCNXM:user/release-keys__2020-04-01
-Xiaomi Mi A3 (10)=
+Samsung Galaxy A20 (9)=samsung/a20cs/a20:9/PPR1.180610.011/A205WVLU1ASE7:user/release-keys__2019-08-01
+Samsung Galaxy A20 (9)=samsung/a20dd/a20:9/PPR1.180610.011/A205FXXS6ATA2:user/release-keys__2019-10-05
 "
 
 # Contributors:
