@@ -16,4 +16,4 @@ Xiaomi Redmi Note 9S (10):Xiaomi:Redmi Note 9S:=Redmi/curtana_global/curtana:10/
 "
 
 # Contributors:
-# RealAkito @ Github, @Displax
+# RealAkito @ Github, @Displax, @ipdev
