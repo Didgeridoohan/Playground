@@ -16,6 +16,7 @@ OnePlus 8 IN2015 (10)=OnePlus/OnePlus8/OnePlus8:10/QKQ1.191222.002/2005090021:us
 OnePlus 8 Pro IN2021 (10)=OnePlus/OnePlus8Pro_IND/OnePlus8Pro:10/QKQ1.191222.002/2005100226:user/release-keys__2020-04-01
 OnePlus 8 Pro IN2023 (10)=OnePlus/OnePlus8Pro_EEA/OnePlus8Pro:10/QKQ1.191222.002/2005100226:user/release-keys__2020-04-01
 OnePlus 8 Pro IN2025 (10)=OnePlus/OnePlus8Pro/OnePlus8Pro:10/QKQ1.191222.002/2005100226:user/release-keys__2020-04-01
+Xiaomi Mi A1 {9}=xiaomi/tissot/tissot_sprout:9/PKQ1.180917.001/V10.0.21.0.PDHMIXM:user/release-keys__2020-05-01
 "
 
 # Contributors:
