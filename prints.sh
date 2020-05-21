@@ -11,4 +11,4 @@ PRINTSLIST="
 "
 
 # Contributors:
-# RealAkito @ Github, @Displax, @ipdev, @Some_Random_Username, @ayesse, @Filo1995
+# 
