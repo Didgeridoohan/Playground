@@ -14,4 +14,4 @@ Xiaomi PocoPhone F1 (10)=Xiaomi/beryllium/beryllium:10/QKQ1.190828.002/V11.0.8.0
 "
 
 # Contributors:
-# @Sid220, @Some_Random_Username
+# @Sid220, @Some_Random_Username, @swour
