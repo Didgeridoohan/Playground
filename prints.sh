@@ -16,7 +16,8 @@ Pixel 3a=google/sargo/sargo:10/QQ3A.200605.002/6416773:user/release-keys__2020-0
 Pixel 3a XL=google/bonito/bonito:10/QQ3A.200605.002/6416773:user/release-keys__2020-06-05
 Pixel 4=google/flame/flame:10/QQ3A.200605.001/6392402:user/release-keys__2020-06-05
 Pixel 4 XL=google/coral/coral:10/QQ3A.200605.001/6392402:user/release-keys__2020-06-05
+Samsung Galaxy Note 4 SM-N910G (6.0.1):Samsung:SM-N910G=samsung/trltedt/trlte:6.0.1/MMB29M/N910GDTU1DQL2:user/release-keys
 "
 
 # Contributors:
-# @Sid220, @Some_Random_Username, @swour, @amipel, @estofjlw, @Displax, @kontini
+# @Sid220, @Some_Random_Username, @swour, @amipel, @estofjlw, @Displax, @kontini, @73sydney
