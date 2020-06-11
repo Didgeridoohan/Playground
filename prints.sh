@@ -11,5 +11,4 @@ PRINTSLIST="
 "
 
 # Contributors:
-# @Sid220, @Some_Random_Username, @swour, @amipel, @estofjlw, @Displax, @kontini, @73sydney, @Filo1995
-# @Juzman
+# 
