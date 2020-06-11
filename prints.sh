@@ -14,7 +14,6 @@ OnePlus 8 IN2015=OnePlus/OnePlus8/OnePlus8:10/QKQ1.191222.002/2005301331:user/re
 OnePlus 8 Pro IN2021=OnePlus/OnePlus8Pro_IND/OnePlus8Pro:10/QKQ1.191222.002/2005301332:user/release-keys__2020-05-01
 OnePlus 8 Pro IN2023=OnePlus/OnePlus8Pro_EEA/OnePlus8Pro:10/QKQ1.191222.002/2005301332:user/release-keys__2020-05-01
 OnePlus 8 Pro IN2025=OnePlus/OnePlus8Pro/OnePlus8Pro:10/QKQ1.191222.002/2005301332:user/release-keys__2020-05-01
-Redmi Note 8 Pro (10)=Redmi/begonia/begonia:10/QP1A.190711.020/20.6.4:user/release-keys__2020-05-01
 "
 
 # Contributors:
