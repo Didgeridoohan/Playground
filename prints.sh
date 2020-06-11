@@ -18,3 +18,4 @@ OnePlus 8 Pro IN2025=OnePlus/OnePlus8Pro/OnePlus8Pro:10/QKQ1.191222.002/20053013
 
 # Contributors:
 # @Sid220, @Some_Random_Username, @swour, @amipel, @estofjlw, @Displax, @kontini, @73sydney, @Filo1995
+# @Juzman
