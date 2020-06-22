@@ -8,7 +8,6 @@ PRINTSTRANSF=1
 
 # Certified fingerprints
 PRINTSLIST="
-LG K20 Plus LGMP260 (7.0)=MetroPCS/lv517_mpcs_us/lv517:7.0/NRD90U/1833409570571:user/release-keys
 LG K20 Plus LGTP260 (7.0)=lge/lv517_tmo_us/lv517:7.0/NRD90U/1809315248edb:user/release-keys
 Nokia 6.1 Plus (10)=Nokia/Dragon_00WW/DRG_sprout:10/QKQ1.190828.002/00WW_4_15C:user/release-keys__2020-05-01
 Nokia 7 plus (10)=Nokia/Onyx_00WW/B2N_sprout:10/QKQ1.190828.002/00WW_4_15D:user/release-keys__2020-05-01
