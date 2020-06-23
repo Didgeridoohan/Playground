@@ -14,7 +14,6 @@ Nokia 7 plus (10)=Nokia/Onyx_00WW/B2N_sprout:10/QKQ1.190828.002/00WW_4_15D:user/
 OnePlus 5=OnePlus/OnePlus5/OnePlus5:10/QKQ1.191014.012/2006012143:user/release-keys__2020-04-05
 OnePlus 5T=OnePlus/OnePlus5T/OnePlus5T:10/QKQ1.191014.012/2006012146:user/release-keys__2020-04-05
 Redmi Note 8 Pro India (10)=Redmi/begoniain/begoniain:10/QP1A.190711.020/V11.0.2.0.QGGINXM:user/release-keys__2020-02-01
-Redmi Note 8 Pro International (10)=Redmi/begonia/begonia:10/QP1A.190711.020/20.6.4:user/release-keys__2020-05-01
 Redmi Note 8 Pro Russia (10)=Redmi/begonia_ru/begonia:10/QP1A.190711.020/V11.0.2.0.QGGRUXM:user/release-keys__2020-02-01
 Samsung Galaxy A50 (9)=samsung/a50dd/a50:9/PPR1.180610.011/A505FDDU1ASD6:user/release-keys__2019-04-01
 Samsung Galaxy J7 2016 SM-J710FQ (8.1.0):samsung:SM-J710FQ=samsung/j7xeltetur/j7xelte:8.1.0/M1AJQ/J710FQXXU3CSG1:user/release-keys__2019-07-01
