@@ -9,6 +9,7 @@ PRINTSTRANSF=1
 # Certified fingerprints
 PRINTSLIST="
 Honor 6X BLN-L22 (8.0.0)=HONOR/BLN-L22/HWBLN-H:8.0.0/HONORBLN-L22/520(C675):user/release-keys__2018-11-05
+Lenovo Tab 4 8 Plus TB-8704F (8.1.0):Lenovo:Lenovo TB-8704F=Lenovo/TB-8704F/TB-8704F:8.1.0/OPM1.171019.019/8704F_S001018_191009_ROW:user/release-keys__2019-08-05
 OnePlus 7 Pro NR Spr GM1925 (10)=OnePlus/OP7ProNRSpr/OP7ProNRSpr:10/QKQ1.190716.003/2006051914:user/release-keys__2020-06-01
 OnePlus 8 IN2011 (10)=OnePlus/OnePlus8_IND/OnePlus8:10/QKQ1.191222.002/2006300108:user/release-keys__2020-06-01
 OnePlus 8 IN2013 (10)=OnePlus/OnePlus8_EEA/OnePlus8:10/QKQ1.191222.002/2006300106:user/release-keys__2020-06-01
@@ -25,4 +26,4 @@ Xiaomi Redmi 8 (10)=Xiaomi/olive/olive:10/QKQ1.191014.001/V11.0.1.0.QCNCNXM:user
 "
 
 # Contributors:
-# @xuxu1, @Some_Random_Usernam, @Qi Xuan, @Displax, @mohitanchalia, @amrithaathmaram
+# @xuxu1, @Some_Random_Usernam, @Qi Xuan, @Displax, @mohitanchalia, @amrithaathmaram, @mikko3024
