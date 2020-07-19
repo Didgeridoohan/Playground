@@ -21,9 +21,8 @@ OnePlus 8 Pro IN2025 (10)=OnePlus/OnePlus8Pro/OnePlus8Pro:10/QKQ1.191222.002/200
 Xiaomi Mi 9T Pro/K20 Pro India (10)=Xiaomi/raphaelin/raphaelin:10/QKQ1.190825.002/V12.0.2.0.QFKINXM:user/release-keys__2020-06-01
 Xiaomi Mi A1 (9)=xiaomi/tissot/tissot_sprout:9/PKQ1.180917.001/V10.0.23.0.PDHMIXM:user/release-keys__2020-07-01
 Xiaomi Mi A3 (10)=Xiaomi/laurel_sprout/laurel_sprout:10/QKQ1.190910.002/V11.0.17.0.QFQMIXM:user/release-keys__2020-06-05
-Xiaomi Redmi 6 Pro (9):Xiaomi:Redmi 6 Pro=xiaomi/sakura/sakura:9/PKQ1.180917.001/20.1.9:user/release-keys__2019-12-01
 Xiaomi Redmi 8 (10)=Xiaomi/olive/olive:10/QKQ1.191014.001/V11.0.1.0.QCNCNXM:user/release-keys__2020-06-01
 "
 
 # Contributors:
-# @xuxu1, @Some_Random_Usernam, @Qi Xuan, @Displax, @mohitanchalia, @amrithaathmaram, @mikko3024
+# @xuxu1, @Some_Random_Usernam, @Displax, @mohitanchalia, @amrithaathmaram, @mikko3024
