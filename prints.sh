@@ -8,21 +8,13 @@ PRINTSTRANSF=1
 
 # Certified fingerprints
 PRINTSLIST="
-Fxtec Pro 1 (9):Fxtec:QX1000=Fxtec/QX1000_EEA/QX1000:9/PKQ1.190723.001/05500.20Q202:user/release-keys__2020-04-05
-Honor 6X BLN-L22 (8.0.0)=HONOR/BLN-L22/HWBLN-H:8.0.0/HONORBLN-L22/520(C675):user/release-keys__2018-11-05
-Lenovo Tab 4 8 Plus TB-8704F (8.1.0):Lenovo:Lenovo TB-8704F=Lenovo/TB-8704F/TB-8704F:8.1.0/OPM1.171019.019/8704F_S001018_191009_ROW:user/release-keys__2019-08-05
-OnePlus 7 Pro NR Spr GM1925 (10)=OnePlus/OP7ProNRSpr/OP7ProNRSpr:10/QKQ1.190716.003/2006051914:user/release-keys__2020-06-01
-OnePlus 8 IN2011 (10)=OnePlus/OnePlus8_IND/OnePlus8:10/QKQ1.191222.002/2006300108:user/release-keys__2020-06-01
-OnePlus 8 IN2013 (10)=OnePlus/OnePlus8_EEA/OnePlus8:10/QKQ1.191222.002/2006300106:user/release-keys__2020-06-01
-OnePlus 8 IN2015 (10)=OnePlus/OnePlus8/OnePlus8:10/QKQ1.191222.002/2006300109:user/release-keys__2020-06-01
-OnePlus 8 IN2017 (10)=OnePlus/OnePlus8TMO/OnePlus8TMO:10/QKQ1.191222.002/2006102149:user/release-keys__2020-06-01
-OnePlus 8 Pro IN2021 (10)=OnePlus/OnePlus8Pro_IND/OnePlus8Pro:10/QKQ1.191222.002/2007021926:user/release-keys__2020-06-01
-OnePlus 8 Pro IN2023 (10)=OnePlus/OnePlus8Pro_EEA/OnePlus8Pro:10/QKQ1.191222.002/2007021926:user/release-keys__2020-06-01
-OnePlus 8 Pro IN2025 (10)=OnePlus/OnePlus8Pro/OnePlus8Pro:10/QKQ1.191222.002/2007021926:user/release-keys__2020-06-01
-Xiaomi Mi 9T Pro/K20 Pro India (10)=Xiaomi/raphaelin/raphaelin:10/QKQ1.190825.002/V12.0.2.0.QFKINXM:user/release-keys__2020-06-01
-Xiaomi Mi A1 (9)=xiaomi/tissot/tissot_sprout:9/PKQ1.180917.001/V10.0.23.0.PDHMIXM:user/release-keys__2020-07-01
-Xiaomi Mi A3 (10)=Xiaomi/laurel_sprout/laurel_sprout:10/QKQ1.190910.002/V11.0.17.0.QFQMIXM:user/release-keys__2020-06-05
-Xiaomi Redmi 8 (10)=Xiaomi/olive/olive:10/QKQ1.191014.001/V11.0.1.0.QCNCNXM:user/release-keys__2020-06-01
+OnePlus 7 GM1900 (10):OnePlus:GM1900=OnePlus/OnePlus7_CH/OnePlus7:10/QKQ1.190716.003/2005132200:user/release-keys__2020-05-01
+OnePlus 7 Pro GM1910 (10):OnePlus:GM1910=OnePlus/OnePlus7Pro_CH/OnePlus7Pro:10/QKQ1.190716.003/2005132200:user/release-keys__2020-05-01
+OnePlus 7T HD1900 (10):OnePlus:HD1900=OnePlus/OnePlus7T_CH/OnePlus7T:10/QKQ1.190716.003/2005131900:user/release-keys__2020-05-01
+OnePlus 7 Pro HD1910 (10):OnePlus:HD1910=OnePlus/OnePlus7TPro_CH/OnePlus7TPro:10/QKQ1.190716.003/2005131900:user/release-keys__2020-05-01
+OnePlus 7 Pro NR GM1920 (10)=OnePlus/OnePlus7ProNR_EEA/OnePlus7ProNR:10/QKQ1.190716.003/2007081356:user/release-keys__2020-07-01
+OnePlus 8 IN2010 (10):OnePlus:IN2010=OnePlus/OnePlus8_CH/OnePlus8:10/QKQ1.191222.002/2006300106:user/release-keys/release-keys__2020-06-01
+OnePlus 8 Pro IN2020 (10):OnePlus:IN2020=OnePlus/OnePlus8Pro_CH/OnePlus8Pro:10/QKQ1.191222.002/2007021926:user/release-keys__2020-06-01
 "
 
 # Contributors:
