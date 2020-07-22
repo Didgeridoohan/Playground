@@ -16,7 +16,9 @@ OnePlus 7 Pro NR GM1920 (10)=OnePlus/OnePlus7ProNR_EEA/OnePlus7ProNR:10/QKQ1.190
 OnePlus 8 IN2010 (10):OnePlus:IN2010=OnePlus/OnePlus8_CH/OnePlus8:10/QKQ1.191222.002/2006300106:user/release-keys/release-keys__2020-06-01
 OnePlus 8 2 (10)=OnePlus/OnePlus8_CH/OnePlus8:10/QKQ1.191222.002/2006300106:user/release-keys__2020-06-01
 OnePlus 8 Pro IN2020 (10):OnePlus:IN2020=OnePlus/OnePlus8Pro_CH/OnePlus8Pro:10/QKQ1.191222.002/2007021926:user/release-keys__2020-06-01
+Redmi Note 8 Pro (9)=Redmi/begonia_ru/begonia:9/PPR1.180610.011/V11.0.3.0.PGGRUXM:user/release-keys__2019-11-01
+Xiaomi Mi A3 (10)=Xiaomi/laurel_sprout/laurel_sprout:10/QKQ1.190910.002/V11.0.19.0.QFQMIXM:user/release-keys__2020-07-05
 "
 
 # Contributors:
-# @xuxu1, @Some_Random_Usernam, @Displax, @mohitanchalia, @amrithaathmaram, @mikko3024, @DreamFlasher
+# @xuxu1, @Some_Random_Usernam, @Displax, @mohitanchalia, @amrithaathmaram, @mikko3024, @DreamFlasher, @timjosten
