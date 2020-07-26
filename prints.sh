@@ -11,4 +11,4 @@ PRINTSLIST="
 "
 
 # Contributors:
-# @xuxu1, @Some_Random_Usernam, @Displax, @mohitanchalia, @amrithaathmaram, @mikko3024, @DreamFlasher, @timjosten, @ipdev, @rafaelbrunner
+# 
