@@ -8,9 +8,9 @@ PRINTSTRANSF=1
 
 # Certified fingerprints
 PRINTSLIST="
-Asus ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL) (9):asus:ASUS_X00PD:=asus/WW_X00PD/ASUS_X00P_1:9/PPR1.180610.009/16.00.1906.411:user/release-keys__2019-06-05
-Asus ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL) (10):asus:ASUS_X00PD:=asus/WW_X00PD/ASUS_X00P_1:10/QKQ1.191002.002/17.00.2003.23-20200401:user/release-keys__2020-03-05
-Asus ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL) (8.0.0):asus:ASUS_X00PD:=asus/WW_X00PD/ASUS_X00P_1:8.0.0/OPR1.170623.032/15.00.2007.122:user/release-keys__2020-07-05
+Asus ZenFone Max M1 (9):asus:ASUS_X00PD:=asus/WW_X00PD/ASUS_X00P_1:9/PPR1.180610.009/16.00.1906.411:user/release-keys__2019-06-05
+Asus ZenFone Max M1 (10):asus:ASUS_X00PD:=asus/WW_X00PD/ASUS_X00P_1:10/QKQ1.191002.002/17.00.2003.23-20200401:user/release-keys__2020-03-05
+Asus ZenFone Max M1 (8.0.0):asus:ASUS_X00PD:=asus/WW_X00PD/ASUS_X00P_1:8.0.0/OPR1.170623.032/15.00.2007.122:user/release-keys__2020-07-05
 Google Pixel 2 (10)=google/walleye/walleye:10/QQ3A.200805.001/6578210:user/release-keys__2020-08-05
 Google Pixel 2 XL (10)=google/taimen/taimen:10/QQ3A.200805.001/6578210:user/release-keys__2020-08-05
 Google Pixel 3 (10)=google/blueline/blueline:10/QQ3A.200805.001/6578210:user/release-keys__2020-08-05
