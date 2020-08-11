@@ -8,7 +8,8 @@ PRINTSTRANSF=1
 
 # Certified fingerprints
 PRINTSLIST="
+Samsung Galaxy S10 SM-G973F (10):Samsung:SM-G973F=samsung/beyond1teeea/beyond1:10/QP1A.190711.020/G973FXXI8CTG4:user/release-keys__2020_08_01
 "
 
 # Contributors:
-# @Sid220, @pepote666, @ipdev, @Displax, @knojap, @enotar
+# @Sid220, @pepote666, @ipdev, @Displax, @knojap, @enotar, @phenixiou
