@@ -11,4 +11,4 @@ PRINTSLIST="
 "
 
 # Contributors:
-# @Sid220, @pepote666, @ipdev, @Displax, @knojap, @enotar
+# 
