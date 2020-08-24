@@ -16,6 +16,7 @@ Google Pixel 3a XL (11):Google:Pixel 3a XL=google/bonito/bonito:11/RPB3.200720.0
 Google Pixel 3 XL (11):Google:Pixel 3 XL=google/crosshatch/crosshatch:11/RPB3.200720.005/6705141:user/release-keys__2020-08-05
 Google Pixel 4 (11):Google:Pixel 4=google/flame/flame:11/RPB3.200720.005/6705141:user/release-keys__2020-08-05
 Google Pixel 4 XL (11):Google:Pixel 4 XL=google/coral/coral:11/RPB3.200720.005/6705141:user/release-keys__2020-08-05
+Google Pixel 4a (10):Google:Pixel 4a=google/sunfish/sunfish:10/QD4A.200805.003/6598198:user/release-keys__2020-08-05
 Huawei P9 EVA-AL10 (8.0.0):Huawei:EVA-AL10=HUAWEI/EVA-AL10/HWEVA:8.0.0/HUAWEIEVA-AL10/550(C00):user/release-keys__2020-07-01
 Huawei P9 Plus VIE-AL10 (8.0.0):Huawei:VIE-L29=Huawei/VIE-AL10/HWVIE:8.0.0/HUAWEIVIE-AL10/550(C00):user/release-keys__2020-07-01
 OnePlus 6 (10)=OnePlus/OnePlus6/OnePlus6:10/QKQ1.190716.003/2007191452:user/release-keys__2020-07-01
