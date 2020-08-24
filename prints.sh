@@ -42,6 +42,7 @@ Redmi Note 9S (10):Xiaomi:Redmi Note 9S=Redmi/curtana_global/curtana:10/QKQ1.191
 Samsung Galaxy A7 2018 SM-A750GN (9 & 10):samsung:SM-A750GN=samsung/a7y18ltedx/a7y18lte:9/PPR1.180610.011/A750GNDXU2BSD2:user/release-keys__2019-04-01;samsung/a7y18ltedx/a7y18lte:10/QP1A.190711.020/A750GNDXS6CTE1:user/release-keys__2020-06-01
 Xiaomi Mi A1 (9)=xiaomi/tissot/tissot_sprout:9/PKQ1.180917.001/V10.0.24.0.PDHMIXM:user/release-keys__2020-08-01
 Xiaomi Mi A2 (10)=xiaomi/jasmine/jasmine_sprout:10/QKQ1.190910.002/V11.0.13.0.QDIMIXM:user/release-keys__2020-08-05
+Xiaomi Mi A3 European (9 & 10):Xiaomi:Mi A3=Xiaomi/laurel_sprout_eea/laurel_sprout:9/PKQ1.190416.001/V10.3.17.0.PFQEUXM:user/release-keys__2020-03-05;Xiaomi/laurel_sprout_eea/laurel_sprout:10/QKQ1.190910.002/V11.0.6.0.QFQEUXM:user/release-keys__2020-08-05
 "
 
 # Contributors:
