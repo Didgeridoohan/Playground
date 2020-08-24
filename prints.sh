@@ -47,4 +47,4 @@ Xiaomi Mi A3 European (9 & 10):Xiaomi:Mi A3=Xiaomi/laurel_sprout_eea/laurel_spro
 "
 
 # Contributors:
-# @zgfg, @ipdev, @Doligem, @Displax, @Some_Random_Username
+# @zgfg, @ipdev, @Doligem, @Displax, @Some_Random_Username, @CoryCoolguy
