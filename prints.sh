@@ -40,6 +40,7 @@ OnePlus Nord AC2001 (10)=OnePlus/Nord_IND/Nord:10/QKQ1.200412.002/2008180201:use
 OnePlus Nord Global AC2003 (10)=OnePlus/Nord/Nord:10/QKQ1.200412.002/2008180159:user/release-keys__2020-07-01
 POCO F2 Pro (10):Xiaomi:POCO F2 Pro=POCO/lmi_eea/lmi:10/QKQ1.191117.002/V12.0.2.0.QJKEUXM:user/release-keys__2020-07-01
 Redmi Note 9S (10):Xiaomi:Redmi Note 9S=Redmi/curtana_global/curtana:10/QKQ1.191215.002/V11.0.10.0.QJWMIXM:user/release-keys__2020-07-01
+Samsung Galaxy A5 2017 (8.0.0)=samsung/a5y17ltexx/a5y17lte:8.0.0/R16NW/A520FXXSFCTG8:user/release-keys__2020-08-01
 Samsung Galaxy A7 2018 SM-A750GN (9 & 10):samsung:SM-A750GN=samsung/a7y18ltedx/a7y18lte:9/PPR1.180610.011/A750GNDXU2BSD2:user/release-keys__2019-04-01;samsung/a7y18ltedx/a7y18lte:10/QP1A.190711.020/A750GNDXS6CTE1:user/release-keys__2020-06-01
 Xiaomi Mi A1 (9)=xiaomi/tissot/tissot_sprout:9/PKQ1.180917.001/V10.0.24.0.PDHMIXM:user/release-keys__2020-08-01
 Xiaomi Mi A2 (10)=xiaomi/jasmine/jasmine_sprout:10/QKQ1.190910.002/V11.0.13.0.QDIMIXM:user/release-keys__2020-08-05
@@ -47,4 +48,4 @@ Xiaomi Mi A3 European (9 & 10):Xiaomi:Mi A3=Xiaomi/laurel_sprout_eea/laurel_spro
 "
 
 # Contributors:
-# @zgfg, @ipdev, @Doligem, @Displax, @Some_Random_Username, @CoryCoolguy
+# @zgfg, @ipdev, @Doligem, @Displax, @Some_Random_Username, @CoryCoolguy, @swour, @ReservedName
