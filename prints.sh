@@ -8,8 +8,8 @@ PRINTSTRANSF=1
 
 # Certified fingerprints
 PRINTSLIST="
-Xiaomi Mi A3 European (9 & 10):Xiaomi:Mi A3=Xiaomi/laurel_sprout_eea/laurel_sprout:9/PKQ1.190416.001/V10.3.17.0.PFQEUXM:user/release-keys__2020-03-05;Xiaomi/laurel_sprout_eea/laurel_sprout:10/QKQ1.190910.002/V11.0.6.0.QFQEUXM:user/release-keys__2020-08-05
+Xiaomi MI 10 European (10):Xiaomi:Mi 10=Xiaomi/umi_eea/umi:10/QKQ1.191117.002/V11.0.10.0.QJBEUVF:user/release-keys__2020-07-01
 "
 
 # Contributors:
-# @zgfg, @ipdev, @Doligem, @Displax, @Some_Random_Username, @CoryCoolguy, @swour, @ReservedName
+# @zgfg, @ipdev, @Doligem, @Displax, @Some_Random_Username, @CoryCoolguy, @swour, @ReservedName, @unknown40404
