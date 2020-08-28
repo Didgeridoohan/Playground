@@ -8,8 +8,8 @@ PRINTSTRANSF=1
 
 # Certified fingerprints
 PRINTSLIST="
-Google Pixel 2XL Test (9 & 10)=google/taimen/taimen-taimen:9/PQ3B.190801.002/5670241:user/release-keys__2019-08-05;google/taimen/taimen:10/QP1A.190711.020/5800535:user/release-keys__2019-09-05
+Huawei P9 Plus VIE-AL10 (8.0.0):Huawei:VIE-L29=Huawei/VIE-AL10/HWVIE:8.0.0/HUAWEIVIE-AL10/550(C00):user/release-keys__2020-07-01
 "
 
 # Contributors:
-# 
+# @zgfg
