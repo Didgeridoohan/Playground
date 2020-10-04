@@ -25,13 +25,13 @@ OnePlus Nord Global AC2003 (10)=OnePlus/Nord/Nord:10/QKQ1.200412.002/2009260426:
 OnePlus Nord European AC2003 (10)=OnePlus/Nord_EEA/Nord:10/QKQ1.200412.002/2009260426:user/release-keys__2020-09-01
 OnePlus Nord AC2001 (10)=OnePlus/Nord_IND/Nord:10/QKQ1.200412.002/2009260350:user/release-keys__2020-09-01
 OPPO Find X2 Neo CPH2009 European (10):OPPO:CPH2009=OPPO/CPH2009EEA/OP4C2DL1:10/QKQ1.200216.002/1596223341:user/release-keys__2020-08-05
-POCO X3 (10)=POCO/surya_global/surya:10/QKQ1.200512.002/V12.0.2.0.QJGMIXM:user/release-keys__2020-09-01
-Redmi K30 Ultra (10)=Redmi/cezanne/cezanne:10/QP1A.190711.020/V12.0.12.0.QJNCNXM:user/release-keys__2020-09-01
-Redmi Note 9 Pro (10):Xiaomi:Redmi Note 9 Pro=Redmi/joyeuse_eea/joyeuse:10/QKQ1.191215.002/V11.0.4.0.QJZEUXM:user/release-keys__2020-07-01
-Redmi Note 9S (10):Xiaomi:Redmi Note 9S=Redmi/curtana_eea/curtana:10/QKQ1.191215.002/V11.0.4.0.QJWEUXM:user/release-keys__2020-07-01
+POCO X3 NFC Global (10):POCO:M2007J20CG=POCO/surya_global/surya:10/QKQ1.200512.002/V12.0.2.0.QJGMIXM:user/release-keys__2020-09-01
+Redmi K30 Ultra (10):Redmi:M2006J10C=Redmi/cezanne/cezanne:10/QP1A.190711.020/V12.0.12.0.QJNCNXM:user/release-keys__2020-09-01
+Redmi Note 9 Pro (10):Redmi:Redmi Note 9 Pro=Redmi/joyeuse_eea/joyeuse:10/QKQ1.191215.002/V11.0.4.0.QJZEUXM:user/release-keys__2020-07-01
+Redmi Note 9S (10):Redmi:Redmi Note 9S=Redmi/curtana_eea/curtana:10/QKQ1.191215.002/V11.0.4.0.QJWEUXM:user/release-keys__2020-07-01
 Samsung Galaxy M21 SM-M215F (10):Samsung:SM-M215F=samsung/m21nsxx/m21:10/QP1A.190711.020/M215FXXU2ATI9:user/release-keys__2020-09-01
 Samsung Galaxy Note 20 Ultra SM-N986U (10):Samsung:SM-N986U=samsung/c2qsqw/c2q:10/QP1A.190711.020/N986USQU1ATH3:user/release-keys__2020-08-01
-Xiaomi Redmi 7A (9 & 10)=Xiaomi/pine/pine:9/PKQ1.190319.001/V11.0.7.0.PCMMIXM:user/release-keys__2020-03-01;Xiaomi/pine/pine:10/QKQ1.191014.001/V11.0.3.0.QCMMIXM:user/release-keys__2020-07-01
+Xiaomi Redmi 7A (9 & 10):Xiaomi:Redmi 7A=Xiaomi/pine/pine:9/PKQ1.190319.001/V11.0.7.0.PCMMIXM:user/release-keys__2020-03-01;Xiaomi/pine/pine:10/QKQ1.191014.001/V11.0.3.0.QCMMIXM:user/release-keys__2020-07-01
 "
 
 # Contributors:
