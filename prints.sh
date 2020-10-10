@@ -14,7 +14,6 @@ POCO F2 Pro European (10):POCO:POCO F2 Pro=POCO/lmi_eea/lmi:10/QKQ1.191117.002/V
 Redmi Note 8 Pro (9)=Redmi/begonia/begonia:9/PPR1.180610.011/V10.4.1.0.PGGMIXM:user/release-keys__2019-09-01
 Redmi Note 8 Pro (10):Redmi:Redmi Note 8 Pro=Redmi/begonia/begonia:10/QP1A.190711.020/V12.0.3.0.QGGMIXM:user/release-keys__2020-08-01
 Xiaomi Redmi Note 8 (9):Xiaomi:Redmi Note 8=xiaomi/ginkgo/ginkgo:9/PKQ1.190616.001/V11.0.11.0.PCOMIXM:user/release-keys__2020-09-01
-Xiaomi Redmi Note 8 (10)=xiaomi/ginkgo/ginkgo:10/QKQ1.200114.002/20.6.17:user/release-keys/1592537410__2020-05-01
 "
 
 # Contributors:
