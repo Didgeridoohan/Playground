@@ -9,6 +9,7 @@ PRINTSTRANSF=1
 # Certified fingerprints
 PRINTSLIST="
 Xiaomi Mi 9T Global (10)=Xiaomi/davinci/davinci:10/QKQ1.190825.002/V12.0.5.0.QFJMIXM:user/release-keys__2020-10-01
+Xiaomi Mi A2 Lite (10)=xiaomi/daisy/daisy_sprout:10/QKQ1.191002.002/V11.0.12.0.QDLMIXM:user/release-keys__2020-10-01
 "
 
 # Contributors:
