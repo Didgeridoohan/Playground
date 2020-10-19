@@ -12,4 +12,4 @@ Xiaomi Mi 9T Global (10)=Xiaomi/davinci/davinci:10/QKQ1.190825.002/V12.0.5.0.QFJ
 "
 
 # Contributors:
-# @geekopa, @Some_Random_Username, @ipdev, @Fangshing87
+# @geekopa, @Some_Random_Username, @ipdev, @Fangshing87, @zgfg, @malowz
