@@ -17,7 +17,8 @@ Google Pixel 4 XL=google/coral/coral:11/RP1A.201105.002/6869500:user/release-key
 Google Pixel 4a=google/sunfish/sunfish:11/RP1A.201105.002/6869500:user/release-keys__2020-11-05
 Google Pixel 4a (5G)=google/bramble/bramble:11/RD1A.201105.003.C1/6886399:user/release-keys__2020-11-05
 Google Pixel 5=google/redfin/redfin:11/RD1A.201105.003.C1/6886399:user/release-keys__2020-11-05
+Samsung A50S SM-A507FN (10):Samsung:SM-A507FN=samsung/a50sxx/a50s:10/QP1A.190711.020/A507FNXXS5BTI1:user/release-keys__2020-09-01
 "
 
 # Contributors:
-# @Displax
+# @Displax, @rheznendra.p
