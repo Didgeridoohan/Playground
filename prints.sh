@@ -24,9 +24,6 @@ Samsung Galaxy A5 2017 (8.0.0)=samsung/a5y17ltexx/a5y17lte:8.0.0/R16NW/A520FXXUG
 Samsung Galaxy A50S SM-A507FN (10):Samsung:SM-A507FN=samsung/a50sxx/a50s:10/QP1A.190711.020/A507FNXXS5BTI1:user/release-keys__2020-09-01
 Xiaomi Mi 10T Europe (10):Xiaomi:M2007J3SY=Xiaomi/apollo_eea/apollo:10/QKQ1.200419.002/V12.0.4.0.QJDEUXM:user/release-keys__2020-09-01
 Xiaomi Mi 10T Pro Europe (10):Xiaomi:M2007J3SG=Xiaomi/apollopro_eea/apollo:10/QKQ1.200419.002/V12.0.4.0.QJDEUXM:user/release-keys__2020-09-01
-
-
-
 "
 
 # Contributors:
