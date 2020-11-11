@@ -22,9 +22,10 @@ Motorola Moto G7 Play T-Mobile (10)=motorola/channel_t/channel:10/QPYS30.85-18-3
 Redmi K30S Ultra (10):Redmi:M2007J3SC=Redmi/apollo/apollo:10/QKQ1.200419.002/V12.0.3.0.QJDCNXM:user/release-keys__2020-09-01
 Samsung Galaxy A5 2017 (8.0.0)=
 Samsung Galaxy A50S SM-A507FN (10):Samsung:SM-A507FN=samsung/a50sxx/a50s:10/QP1A.190711.020/A507FNXXS5BTI1:user/release-keys__2020-09-01
+Xiaomi Mi 9T (10)=Xiaomi/davinci/davinci:10/QKQ1.190825.002/V12.0.6.0.QFJCNXM:user/release-keys__2020-10-01
 Xiaomi Mi 10T Europe (10):Xiaomi:M2007J3SY=Xiaomi/apollo_eea/apollo:10/QKQ1.200419.002/V12.0.4.0.QJDEUXM:user/release-keys__2020-09-01
 Xiaomi Mi 10T Pro Europe (10):Xiaomi:M2007J3SG=Xiaomi/apollopro_eea/apollo:10/QKQ1.200419.002/V12.0.4.0.QJDEUXM:user/release-keys__2020-09-01
 "
 
 # Contributors:
-# @Displax, @rheznendra.p, @swour, @AL2009man, @BlueMan_86
+# @Displax, @rheznendra.p, @swour, @AL2009man, @BlueMan_86, @zgfg
