@@ -30,7 +30,6 @@ OnePlus 8 India Pro IN2021 (11)=OnePlus/OnePlus8Pro_IND/OnePlus8Pro:11/RP1A.2010
 OnePlus 8 Europe Pro IN2023 (11)=OnePlus/OnePlus8Pro_EEA/OnePlus8Pro:11/RP1A.201005.001/2011010100:user/release-keys__2020-10-01
 OnePlus 8 Global Pro IN2025 (11)=OnePlus/OnePlus8Pro/OnePlus8Pro:11/RP1A.201005.001/2011010100:user/release-keys__2020-10-01
 OnePlus 8T China (11):OnePlus:KB2000=OnePlus/OnePlus8T_CH/OnePlus8T:11/RP1A.201005.001/2011100046:user/release-keys__2020-10-01
-OnePlus 8T India KB2001 (11)=OnePlus/OnePlus8T_IND/OnePlus8T:11/RP1A.201005.001/2009181137:user/release-keys__2020-10-01
 OnePlus 8T Europe KB2003 (11)=OnePlus/OnePlus8T_EEA/OnePlus8T:11/RP1A.201005.001/2011132154:user/release-keys__2020-10-01
 OnePlus 8T Global KB2005 (11)=OnePlus/OnePlus8T/OnePlus8T:11/RP1A.201005.001/2011101418:user/release-keys__2020-10-01
 OnePlus N100 Europe (10):OnePlus:BE2013=OnePlus/OnePlusN100_EEA/OnePlusN100:10/QKQ1.200719.002/2010311929:user/release-keys__2020-10-05
