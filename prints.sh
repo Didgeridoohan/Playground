@@ -1,5 +1,4 @@
-
-#!/system/bin/shi 
+#!/system/bin/sh
 
 # MagiskHide Props Config
 # By Didgeridoohan @ XDA Developers
@@ -38,6 +37,8 @@ OnePlus N10 5G Europe (10):OnePlus:BE2029=OnePlus/OnePlusN10_EEA/OnePlusN10:10/Q
 OnePlus Nord India AC2001 (10)=OnePlus/Nord_IND/Nord:10/QKQ1.200412.002/2010231934:user/release-keys__2020-10-01
 OnePlus Nord Europe AC2003 (10)=OnePlus/Nord_EEA/Nord:10/QKQ1.200412.002/2010231937:user/release-keys__2020-10-01
 OnePlus Nord Global AC2003 (10)=OnePlus/Nord/Nord:10/QKQ1.200412.002/2010231954:user/release-keys__2020-10-01
+POCO X3 NFC (10)=POCO/surya_global/surya:10/QKQ1.200512.002/V12.0.4.0.QJGMIXM:user/release-keys__2020-10-01
+Samsung Galaxy A70 SM-A705FN (10):samsung:SM-A705FN=samsung/a70qxx/a70q:10/QP1A.190711.020/A705FNXXU5CTK4:user/release-keys__2020-11-01
 Samsung Galaxy Note 20 Ultra 5G SM-N986B/DS (10):samsung:SM-N986B=samsung/c2sxxx/c2s:10/QP1A.190711.020/N986BXXU1ATJ1:user/release-keys__2020-10-01
 Samsung Galaxy S20 FE 5G (10):samsung:SM-G781B=samsung/r8qxxx/r8q:10/QP1A.190711.020/G781BXXU1ATJ5:user/release-keys__2020-10-01
 Xiaomi Mi 10 China (10)=Xiaomi/umi/umi:10/QKQ1.191117.002/V12.0.8.0.QJBCNXM:user/release-keys__2020-07-01
@@ -45,4 +46,4 @@ Xiaomi Mi 10 China (11)=Xiaomi/umi/umi:11/RKQ1.200710.002/V12.1.3.0.RJBCNXM:user
 "
 
 # Contributors:
-# @red_lnn, @Johnny Eng, @dron39, @Some_Random_Username
+# @red_lnn, @Johnny Eng, @dron39, @Some_Random_Username, @GtrCraft, @Kovacs-
