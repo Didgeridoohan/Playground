@@ -8,7 +8,8 @@ PRINTSTRANSF=1
 
 # Certified fingerprints
 PRINTSLIST="
+Xiaomi Redmi Note 8 (10)=xiaomi/ginkgo/ginkgo:10/QKQ1.200114.002/V12.0.1.0.QCOMIXM:user/release-keys__2020-09-01
 "
 
 # Contributors:
-# 
+# @emanresu2
