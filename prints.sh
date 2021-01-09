@@ -18,7 +18,6 @@ Google Pixel 4a=google/sunfish/sunfish:11/RQ1A.210105.002/6985033:user/release-k
 Google Pixel 4a (5G)=google/bramble/bramble:11/RQ1A.210105.003/7005429:user/release-keys__2021-01-05
 Google Pixel 5=google/redfin/redfin:11/RQ1A.210105.003/7005429:user/release-keys__2021-01-05
 Meizu 17 (10):meizu:meizu 17=meizu/meizu_17_N_CN/meizu17:10/QKQ1.200223.002/1599445800:user/release-keys__2020-07-01
-
 OnePlus 6 (10)=OnePlus/OnePlus6/OnePlus6:10/QKQ1.190716.003/2011161919:user/release-keys__2020-11-01
 OnePlus 6T (10)=OnePlus/OnePlus6T/OnePlus6T:10/QKQ1.190716.003/2011161919:user/release-keys__2020-11-01
 OnePlus 7 (10)=OnePlus/OnePlus7/OnePlus7:10/QKQ1.190716.003/2011052232:user/release-keys__2020-11-01
@@ -52,8 +51,6 @@ OnePlus N10 (10)=OnePlus/OnePlusN10/OnePlusN10:10/QKQ1.200830.002/2012121358:use
 OnePlus N10 (10)=OnePlus/OnePlusN10_EEA/OnePlusN10:10/QKQ1.200830.002/2012121358:user/release-keys__2020-12-05
 OnePlus N100 (10)=OnePlus/OnePlusN100/OnePlusN100:10/QKQ1.200719.002/2012151141:user/release-keys__2020-12-05
 OnePlus N100 (10)=OnePlus/OnePlusN100_EEA/OnePlusN100:10/QKQ1.200719.002/2012232008:user/release-keys__2020-12-05
-
-
 POCO X3 Europe (10)=POCO/surya_eea/surya:10/QKQ1.200512.002/V12.0.7.0.QJGEUXM:user/release-keys__2020-11-01
 POCO X3 Global (10)=POCO/surya_global/surya:10/QKQ1.200512.002/V12.0.7.0.QJGMIXM:user/release-keys__2020-11-01
 Redmi Note 8 Pro Europe (10)=Redmi/begonia_eea/begonia:10/QP1A.190711.020/V12.0.3.0.QGGEUXM:user/release-keys__2020-11-01
