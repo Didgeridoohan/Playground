@@ -28,7 +28,6 @@ OnePlus 7 Pro TMO (10)=OnePlus/OnePlus7ProTMO/OnePlus7ProTMO:10/QKQ1.190716.003/
 OnePlus 7 Pro NR (10)=OnePlus/OnePlus7ProNR_EEA/OnePlus7ProNR:10/QKQ1.190716.003/2011182309:user/release-keys__2020-11-01
 OnePlus 7T (10)=OnePlus/OnePlus7T/OnePlus7T:10/QKQ1.190716.003/2011052234:user/release-keys__2020-11-01
 OnePlus 7T (10)=OnePlus/OnePlus7T_EEA/OnePlus7T:10/QKQ1.190716.003/2011052234:user/release-keys__2020-11-01
-OnePlus 7T (11)=OnePlus/OnePlus7T/OnePlus7T:11/RKQ1.201022.002/2012201945:user/release-keys__2020-11-01
 OnePlus 7T Pro (10)=OnePlus/OnePlus7TPro/OnePlus7TPro:10/QKQ1.190716.003/2011052221:user/release-keys__2020-11-01
 OnePlus 7T Pro (10)=OnePlus/OnePlus7TPro_EEA/OnePlus7TPro:10/QKQ1.190716.003/2011052221:user/release-keys__2020-11-01
 OnePlus 7T Pro NR (10)=OnePlus/OnePlus7TProNR/OnePlus7TProNR:10/QKQ1.190716.003/2011302116:user/release-keys__2020-11-01
@@ -54,16 +53,20 @@ OnePlus N100 (10)=OnePlus/OnePlusN100_EEA/OnePlusN100:10/QKQ1.200719.002/2012232
 POCO X3 Europe (10)=POCO/surya_eea/surya:10/QKQ1.200512.002/V12.0.7.0.QJGEUXM:user/release-keys__2020-11-01
 POCO X3 Global (10)=POCO/surya_global/surya:10/QKQ1.200512.002/V12.0.7.0.QJGMIXM:user/release-keys__2020-11-01
 Redmi Note 8 Pro Europe (10)=Redmi/begonia_eea/begonia:10/QP1A.190711.020/V12.0.3.0.QGGEUXM:user/release-keys__2020-11-01
+Samsung Galaxy A6 (10)=samsung/a6ltexx/a6lte:10/QP1A.190711.020/A600FNXXS7CTI1:user/release-keys__2020-09-01
 Samsung Galaxy S10e SM-G970F (10):samsung:SM-G970F=samsung/beyond0ltexx/beyond0:10/QP1A.190711.020/G970FXXS9DTK9:user/release-keys__2020-12-01
+Samsung Galaxy S10e SM-G970F (11):Samsung:SM-G970F=samsung/beyond0ltexx/beyond0:11/RP1A.200720.012/G970FXXU9ETLJ:user/release-keys__2021-01-01
+Samsung Galaxy S10 SM-G973F (11):Samsung:SM-G973F=samsung/beyond1ltexx/beyond1:11/RP1A.200720.012/G973FXXU9ETLJ:user/release-keys__2021-01-01
+Samsung Galaxy S10 Plus SM-G975F (11):Samsung:SM-G975F=samsung/beyond2ltexx/beyond2:11/RP1A.200720.012/G975FXXU9ETLJ:user/release-keys__2021-01-01
 Samsung Galaxy Tab S6 Lite SM-P610 (10)=samsung/gta4xlwifixx/gta4xlwifi:10/QP1A.190711.020/P610XXU2BTK2:user/release-keys__2020-12-01
-Xiaomi MI 9 (11)=Xiaomi/cepheus/cepheus:11/RKQ1.200826.002/20.12.28:user/release-keys__2020-12-01
 Xiaomi Mi 10T Europe (10)=Xiaomi/apollo_eea/apollo:10/QKQ1.200419.002/V12.0.13.0.QJDEUXM:user/release-keys__2020-11-01
 Xiaomi Mi 10T Pro Europe (10)=Xiaomi/apollopro_eea/apollo:10/QKQ1.200419.002/V12.0.13.0.QJDEUXM:user/release-keys__2020-11-01
 Xiaomi Mi A2 (10)=xiaomi/jasmine/jasmine_sprout:10/QKQ1.190910.002/V11.0.19.0.QDIMIXM:user/release-keys__2020-12-01
 Xiaomi Mi A2 Lite (10)=xiaomi/daisy/daisy_sprout:10/QKQ1.191002.002/V11.0.16.0.QDLMIXM:user/release-keys__2020-12-01
 Xiaomi Mi A3 (10)=Xiaomi/laurel_sprout/laurel_sprout:10/QKQ1.190910.002/V11.0.26.0.QFQMIXM:user/release-keys__2020-12-05
+Xiaomi Redmi K20 Pro (10)=Xiaomi/raphael/raphael:10/QKQ1.190825.002/V12.0.6.0.QFKCNXM:user/release-keys__2020-11-01
 Xiaomi Redmi Note 8 (10)=xiaomi/ginkgo/ginkgo:10/QKQ1.200114.002/V12.0.1.0.QCOMIXM:user/release-keys__2020-09-01
 "
 
 # Contributors:
-# @emanresu2, @BlueMan_86, @sh3rry on GitHub, @Mr54233 on GitHub, @FivEawE, @oursgentil, @GtrCraft, @Displax, @Max128, @Some_Random_Username
+# @emanresu2, @BlueMan_86, @sh3rry on GitHub, @FivEawE, @oursgentil, @GtrCraft, @Displax, @Max128, @Some_Random_Username, @liwenjie119 on GitHub, @dr4go
