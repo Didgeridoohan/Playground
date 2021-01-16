@@ -8,9 +8,10 @@ PRINTSTRANSF=1
 
 # Certified fingerprints
 PRINTSLIST="
+Asus ROG Phone 3 ZS661KS (10):asus:ZS661KS=asus/WW_I003D/ASUS_I003_1:10/QKQ1.200419.002/17.0823.2012.122-0:user/release-keys__2020-12-01
 Xiaomi Mi 10 Lite (10)=Xiaomi/gauguin_eea/gauguin:10/QKQ1.200628.002/V12.0.8.0.QJSEUXM:user/release-keys__2020-12-01
 Xiaomi Pocophone F1 (10)=Xiaomi/beryllium/beryllium:10/QKQ1.190828.002/V12.0.3.0.QEJMIXM:user/release-keys__2020-12-01
 "
 
 # Contributors:
-# @Sid220, @der_Kief
+# @Sid220, @der_Kief, @badral07
