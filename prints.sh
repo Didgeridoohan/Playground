@@ -13,6 +13,7 @@ Sony Xperia 10 (10):Sony:I4193=Sony/I4193/I4193:10/53.1.A.3.85/053001A0030085021
 Xiaomi Mi 9T Pro/Redmi K20 Pro Europe (10)=Xiaomi/raphael_eea/raphael:10/QKQ1.190825.002/V12.0.4.0.QFKEUXM:user/release-keys__2021-01-01
 Xiaomi Mi A2 Lite (10)=xiaomi/daisy/daisy_sprout:10/QKQ1.191002.002/V11.0.18.0.QDLMIXM:user/release-keys__2021-02-01
 Xiaomi Mi A2 (10)=xiaomi/jasmine/jasmine_sprout:10/QKQ1.190910.002/V11.0.21.0.QDIMIXM:user/release-keys__2021-02-01
+Xiaomi Mi A3 (11)=Xiaomi/laurel_sprout/laurel_sprout:11/RKQ1.200903.002/V12.0.6.0.RFQMIXM:user/release-keys__2021-02-05
 "
 
 # Contributors:
