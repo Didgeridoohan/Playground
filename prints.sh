@@ -14,8 +14,6 @@ Nvidia Shield TV 2017 (9)=NVIDIA/darcy/darcy:9/PPR1.180610.011/4079208_2513.0256
 Nvidia Shield TV 2019 (9)=NVIDIA/sif/sif:9/PPR1.180610.011/4079180_2513.0256:user/release-keys__2020-12-05
 Nvidia Shield TV 2019 Pro (9)=NVIDIA/mdarcy/mdarcy:9/PPR1.180610.011/4079208_2513.0256:user/release-keys__2020-12-05
 Xiaomi Redmi 9 China (10):Xiaomi:M2004J19AG=Redmi/lancelot/lancelot:10/QP1A.190711.020/V12.0.6.0.QJCCNXM:user/release-keys__2020-11-05
-Xiaomi Redmi 9 NFC China (10):Xiaomi:M2004J19C=Redmi/galahad/galahad:10/QP1A.190711.020/V12.0.6.0.QJCCNXM:user/release-keys__2020-11-05
-Xiaomi Redmi 9 NFC India (10):Xiaomi:M2004J19C=Redmi/galahad_id/galahad:10/QP1A.190711.020/V12.0.1.0.QJCIDXM:user/release-keys__2020-11-01
 "
 
 # Contributors:
