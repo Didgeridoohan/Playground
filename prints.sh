@@ -46,7 +46,8 @@ OnePlus N100 (10)=OnePlus/OnePlusN100_EEA/OnePlusN100:10/QKQ1.200719.002/2101222
 OnePlus N100 (10)=OnePlus/OnePlusN100METRO/OnePlusN100METRO:10/QKQ1.200719.002/2012212113:user/release-keys__2020-12-05
 OnePlus N100 (10)=OnePlus/OnePlusN100TMO/OnePlusN100TMO:10/QKQ1.200719.002/2012212112:user/release-keys__2020-12-05
 Redmi Note 9 Pro Max India (10):Redmi:Redmi Note 9 Pro Max=Redmi/excalibur_in/excalibur:10/QKQ1.191215.002/V12.0.3.0.QJXINXM:user/release-keys__2021-02-01
+Samsung Galaxy Tab 7 WiFi SM-T970 (11):Samsung:SM-T970=samsung/gts7xlwifixx/gts7xlwifi:11/RP1A.200720.012/T970XXU1BUAA:user/release-keys__2021-01-01
 "
 
 # Contributors:
-# @Ema_Prowler, @DevRiturajKumar on GitHub, @Some_Random_Username
+# @Ema_Prowler, @DevRiturajKumar on GitHub, @Some_Random_Username, @a5782033 on GitHub
