@@ -12,6 +12,7 @@ BLU Vivo XI (8.1.0):BLU:BLU_VIVO_XI=BLU/BLU_VIVO_XI/V0330WW:8.1.0/O11019/1543905
 Motorola Moto Z2 Force T-Mobile (8.0.0):Motorola:Moto Z2=motorola/nash_tmo_c/nash:8.0.0/OCXS27.109-51-14-7/12:user/release-keys__2019-07-01
 Redmi 9T Global (10):Redmi:M2010J19SI=Redmi/lime_global/lime:10/QKQ1.200830.002/V12.0.7.0.QJQMIXM:user/release-keys__2021-03-01
 Samsung Galaxy S10 SM-G973F (11):Samsung:SM-G973F=samsung/beyond1ltexx/beyond1:11/RP1A.200720.012/G973FXXU9FUBD:user/release-keys__2021-03-01
+Samsung Galaxy S10 SM-G973F Europe (11):Samsung:SM-G973F=samsung/beyond1lteeea/beyond1:11/RP1A.200720.012/G973FXXU9FUBD:user/release-keys__2021-03-01
 Samsung Galaxy S10 SM-G973N (11):Samsung:SM-G973N=samsung/beyond1lteks/beyond1:11/RP1A.200720.012/G973NKSU5FUBD:user/release-keys__2021-03-01
 Samsung Galaxy S10 5G SM-G977B (11):Samsung:SM-G977B=samsung/beyondxxx/beyondx:11/RP1A.200720.012/G977BXXU6FUBD:user/release-keys__2021-03-01
 Samsung Galaxy S10 5G SM-G977N (11):Samsung:SM-G977N=samsung/beyondxks/beyondx:11/RP1A.200720.012/G977NKSU4FUBD:user/release-keys__2021-03-01
