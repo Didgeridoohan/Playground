@@ -22,8 +22,7 @@ Samsung Galaxy S10e SM-G970F (11)=samsung/beyond0ltexx/beyond0:11/RP1A.200720.01
 Samsung Galaxy S10e Europe SM-G970F (11)=samsung/beyond0lteeea/beyond0:11/RP1A.200720.012/G970FXXU9FUCD:user/release-keys__2021-04-01
 Samsung Galaxy S10e SM-G970N (11)=samsung/beyond0lteks/beyond0:11/RP1A.200720.012/G970NKSU5FUCD:user/release-keys__2021-04-01
 Xiaomi Mi 10 Ultra China (11)=Xiaomi/cas/cas:11/RKQ1.200826.002/V12.5.1.0.RJJCNXM:user/release-keys__2021-03-01
-Xiaomi Mi 10T Global (11)=Xiaomi/apollo_global/apollo_global:11/RKQ1.200826.002/V12.1.1.0.RJDMIXM:user/release-keys__2021-02-01
 "
 
 # Contributors:
-# @2B_4G10, @Sherbi, @DjLeleX, @TheReduxPL, @b0mb
+# @2B_4G10, @DjLeleX, @TheReduxPL, @b0mb
