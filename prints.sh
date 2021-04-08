@@ -9,6 +9,7 @@ PRINTSTRANSF=1
 # Certified fingerprints
 PRINTSLIST="
 POCO X3 Pro Global (11):POCO:M2102J20SG=POCO/vayu_global/vayu:11/RKQ1.200826.002/V12.0.4.0.RJUMIXM:user/release-keys__2021-03-01
+Redmi Note 10 Pro (11)=Redmi/sweet_global/sweet:11/RKQ1.200826.002/V12.0.6.0.RKFMIXM:user/release-keys__2021-03-01
 Samsung Galaxy S10 SM-G973F (11)=samsung/beyond1ltexx/beyond1:11/RP1A.200720.012/G973FXXU9FUCD:user/release-keys__2021-04-01
 Samsung Galaxy S10 Europe SM-G973F (11)=samsung/beyond1lteeea/beyond1:11/RP1A.200720.012/G973FXXU9FUCD:user/release-keys__2021-04-01
 Samsung Galaxy S10 SM-G973N (11)=samsung/beyond1lteks/beyond1:11/RP1A.200720.012/G973NKSU5FUCD:user/release-keys__2021-04-01
@@ -25,4 +26,4 @@ Xiaomi Mi 10T Global (11)=Xiaomi/apollo_global/apollo_global:11/RKQ1.200826.002/
 "
 
 # Contributors:
-# @2B_4G10, @Sherbi, @DjLeleX, @TheReduxPL
+# @2B_4G10, @Sherbi, @DjLeleX, @TheReduxPL, @b0mb
