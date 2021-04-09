@@ -8,6 +8,15 @@ PRINTSTRANSF=1
 
 # Certified fingerprints
 PRINTSLIST="
+Google Pixel 3=google/blueline/blueline:11/RQ2A.210405.005/7181113:user/release-keys__2021-04-05
+Google Pixel 3 XL=google/crosshatch/crosshatch:11/RQ2A.210405.005/7181113:user/release-keys__2021-04-05
+Google Pixel 3a=google/sargo/sargo:11/RQ2A.210405.005/7181113:user/release-keys__2021-04-05
+Google Pixel 3a XL=google/bonito/bonito:11/RQ2A.210405.005/7181113:user/release-keys__2021-04-05
+Google Pixel 4=google/flame/flame:11/RQ2A.210405.005/7181113:user/release-keys__2021-04-05
+Google Pixel 4 XL=google/coral/coral:11/RQ2A.210405.005/7181113:user/release-keys__2021-04-05
+Google Pixel 4a=google/sunfish/sunfish:11/RQ2A.210405.005/7181113:user/release-keys__2021-04-05
+Google Pixel 4a (5G)=google/bramble/bramble:11/RQ2A.210405.005/7181113:user/release-keys__2021-04-05
+Google Pixel 5=google/redfin/redfin:11/RQ2A.210405.005/7181113:user/release-keys__2021-04-05
 POCO X3 Pro Global (11):POCO:M2102J20SG=POCO/vayu_global/vayu:11/RKQ1.200826.002/V12.0.4.0.RJUMIXM:user/release-keys__2021-03-01
 Redmi Note 10 Pro (11)=Redmi/sweet_global/sweet:11/RKQ1.200826.002/V12.0.6.0.RKFMIXM:user/release-keys__2021-03-01
 Samsung Galaxy S10 SM-G973F (11)=samsung/beyond1ltexx/beyond1:11/RP1A.200720.012/G973FXXU9FUCD:user/release-keys__2021-04-01
@@ -25,4 +34,4 @@ Xiaomi Mi 10 Ultra China (11)=Xiaomi/cas/cas:11/RKQ1.200826.002/V12.5.1.0.RJJCNX
 "
 
 # Contributors:
-# @2B_4G10, @DjLeleX, @TheReduxPL, @b0mb
+# @2B_4G10, @DjLeleX, @TheReduxPL, @b0mb, @Displax
