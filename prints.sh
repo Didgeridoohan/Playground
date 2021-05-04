@@ -17,7 +17,7 @@ Google Pixel 4 XL (11)=google/coral/coral:11/RQ2A.210505.002/7246365:user/releas
 Google Pixel 4a (11)=google/sunfish/sunfish:11/RQ2A.210505.002/7246365:user/release-keys__2021-05-05
 Google Pixel 4a 5G (11)=google/bramble/bramble:11/RQ2A.210505.003/7255357:user/release-keys__2021-05-05
 Google Pixel 5=google/redfin/redfin:11/RRQ2A.210505.003/7255357:user/release-keys__2021-05-05
-Xiaomi Mi A3 Global (11)=Xiaomi/laurel_sprout/laurel_sprout:11/RKQ1.200903.002/V12.0.8.0.RFQMIXM:user/release-keys__2021-04-05
+xiaomi Mi A3 Global (11)=Xiaomi/laurel_sprout/laurel_sprout:11/RKQ1.200903.002/V12.0.8.0.RFQMIXM:user/release-keys__2021-04-05
 Xiaomi Mi A3 Europe (11)=Xiaomi/laurel_sprout_eea/laurel_sprout:11/RKQ1.200903.002/V12.0.6.0.RFQEUXM:user/release-keys__2021-04-05
 "
 
