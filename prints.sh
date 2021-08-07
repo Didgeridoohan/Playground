@@ -23,14 +23,10 @@ Motorola Moto Edge (10 & 11):Motorola:motorola edge=motorola/racer_retail/racer:
 Motorola Moto G 5g (10):Motorola:moto g 5G=motorola/kiev_retail/kiev:10/QZKS30.Q4-40-81-3-4/88702:user/release-keys__2021-07-01
 Motorola Moto G 5g Plus (10 & 11):Motorola:moto g 5G plus=motorola/nairo_retail/nairo:10/QPNS30.37-Q3-42-51-4/2a371:user/release-keys__2021-01-01;motorola/nairo_retail/nairo:11/RPN31.Q4U-39-27-5/20ead:user/release-keys__2021-02-01
 Motorola Moto G Pro (11):motorola:moto g pro=motorola/sofiap_ao/sofiap_sprout:11/RPRS31.Q4U-20-36/f72e82:user/release-keys__2021-07-01
-Motorola Moto G7 XT1962-1 (10):Motorola:moto g(7)=motorola/river_retail/river:10/QPUS30.52-33-11/df129:user/release-keys__2021-02-01
-Motorola Moto G7 Power (9 & 10):Motorola:moto g(7) power=motorola/ocean_retail/ocean:10/QPOS30.52-29-11/72afa:user/release-keys__2020-12-01
-Motorola Moto G7 Play (9 & 10):Motorola:moto g(7) play=motorola/channel_retail/channel:10/QPY30.85-18/6d15b:user/release-keys__2020-06-01
 Motorola Moto Razr 2020 (10 & 11):Motorola:motorola razr 2020=motorola/smith_retail/smith:10/QPSS30.205-Q3-43-51-3/3bfc9:user/release-keys__2020-11-01;motorola/smith_retail/smith:11/RPS31.Q1-40-17-12/21bf4c:user/release-keys__2021-02-01
 Nvidia Shield TV 2015 (9)=NVIDIA/foster_e/foster:9/PPR1.180610.011/4079208_2740.7538:user/release-keys__2021-04-05
 Nvidia Shield TV 2015 Pro (9)=NVIDIA/foster_e_hdd/foster:9/PPR1.180610.011/4079208_2740.7538:user/release-keys__2021-04-05
 Nvidia Shield TV 2017 (9)=NVIDIA/darcy/darcy:9/PPR1.180610.011/4079208_2740.7538:user/release-keys__2021-04-05
-Nvidia Shield TV 2019 (9)=NVIDIA/sif/sif:9/PPR1.180610.011/4079180_2740.7538:user/release-keys__2021-04-05
 Nvidia Shield TV 2019 Pro (9)=NVIDIA/mdarcy/mdarcy:9/PPR1.180610.011/4079208_2740.7538:user/release-keys__2021-04-05
 OnePlus 6 (10)=OnePlus/OnePlus6/OnePlus6:10/QKQ1.190716.003/2105112215:user/release-keys__2021-05-01
 OnePlus 6 (11)=OnePlus/OnePlus6/OnePlus6:11/RKQ1.201217.002/2106301530:user/release-keys__2021-07-01
@@ -79,7 +75,6 @@ OnePlus Nord CE Europe EB2103 (11)=OnePlus/OnePlusNordCE_EEA/OnePlusNordCE:11/RK
 OnePlus Nord CE India EB2101 (11)=OnePlus/OnePlusNordCE_IND/OnePlusNordCE:11/RKQ1.201217.002/2106102343:user/release-keys__2021-05-01
 OPPO Find X2 Neo Europe CPH2009 (11):OPPO:CPH2009=OPPO/CPH2009EEA/OP4C2DL1:11/RKQ1.200903.002/1622715759798:user/release-keys__2021-06-05
 POCO F2 Pro Global (11)=POCO/lmi_global/lmi:11/RKQ1.200826.002/V12.5.1.0.RJKMIXM:user/release-keys__2021-06-01
-POCO F3 Global (11)=POCO/alioth_global/alioth:11/RKQ1.200826.002/V12.5.1.0.RKHMIXM:user/release-keys__2021-03-01
 POCO M3 Pro 5G Indonesia (11):POCO:M2103K19PG=POCO/camellian_p_id/camellian:11/RP1A.200720.011/V12.0.3.0.RKSIDXM:user/release-keys__2021-06-01
 POCO X3 NFC Global (11)=POCO/surya_global/surya:11/RKQ1.200826.002/V12.0.1.0.RJGMIXM:user/release-keys__2021-05-01
 Redmi Note 8 Pro Europe (11)=Redmi/begonia_eea/begonia:11/RP1A.200720.011/V12.5.2.0.RGGEUXM:user/release-keys__2021-07-01
@@ -107,4 +102,10 @@ Xiaomi Mi A3 Global (11)=Xiaomi/laurel_sprout/laurel_sprout:11/RKQ1.200903.002/V
 # Contributors:
 # @Some_Random_Username, @Dhaval Bhramkhatri, @Last_SiN, @Displax, @GtrCraft, @BlackSoulxxx, @rdis, @yazakachka, @tepsys, @DjLeleX, @ipdev, @xuxu1, @spacedingo (Github), @Howard20181 (Github), @SyberHexen (Github)
 
+# Failed prints:
 # Motorola Moto E 2020 (10):Motorola:moto e=motorola/ginna_retail/ginna:10/QPG30.82-141/84c8d:user/release-keys__2021-02-01
+# Motorola Moto G7 XT1962-1 (10):Motorola:moto g(7)=motorola/river_retail/river:10/QPUS30.52-33-11/df129:user/release-keys__2021-02-01
+# Motorola Moto G7 Power (9 & 10):Motorola:moto g(7) power=motorola/ocean_retail/ocean:10/QPOS30.52-29-11/72afa:user/release-keys__2020-12-01
+# Motorola Moto G7 Play (9 & 10):Motorola:moto g(7) play=motorola/channel_retail/channel:10/QPY30.85-18/6d15b:user/release-keys__2020-06-01
+# Nvidia Shield TV 2019 (9)=NVIDIA/sif/sif:9/PPR1.180610.011/4079180_2740.7538:user/release-keys__2021-04-05
+# POCO F3 Global (11)=POCO/alioth_global/alioth:11/RKQ1.200826.002/V12.5.1.0.RKHMIXM:user/release-keys__2021-03-01
