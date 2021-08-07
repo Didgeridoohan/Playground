@@ -19,7 +19,6 @@ Google Pixel 4 XL (11)=google/coral/coral:11/RQ3A.210705.001/7380771:user/releas
 Google Pixel 4a (11)=google/sunfish/sunfish:11/RQ3A.210705.001/7380771:user/release-keys__2021-07-05
 Google Pixel 4a 5G (11)=google/bramble/bramble:11/RQ3A.210705.001/7380771:user/release-keys__2021-07-05
 Google Pixel 5 (11)=google/redfin/redfin:11/RQ3A.210705.001/7380771:user/release-keys__2021-07-05
-Motorola Moto E 2020 (10):Motorola:moto e=motorola/ginna_retail/ginna:10/QPG30.82-141/84c8d:user/release-keys__2021-02-01
 Motorola Moto Edge (10 & 11):Motorola:motorola edge=motorola/racer_retail/racer:10/QPD30.114-80/6ddbb:user/release-keys__2020-10-01;motorola/racer_retail/racer:11/RPDS31.Q4U-39-26-4-4/802e72:user/release-keys__2021-06-01
 Motorola Moto G 5g (10):Motorola:moto g 5G=motorola/kiev_retail/kiev:10/QZKS30.Q4-40-81-3-4/88702:user/release-keys__2021-07-01
 Motorola Moto G 5g Plus (10 & 11):Motorola:moto g 5G plus=motorola/nairo_retail/nairo:10/QPNS30.37-Q3-42-51-4/2a371:user/release-keys__2021-01-01;motorola/nairo_retail/nairo:11/RPN31.Q4U-39-27-5/20ead:user/release-keys__2021-02-01
@@ -107,3 +106,5 @@ Xiaomi Mi A3 Global (11)=Xiaomi/laurel_sprout/laurel_sprout:11/RKQ1.200903.002/V
 
 # Contributors:
 # @Some_Random_Username, @Dhaval Bhramkhatri, @Last_SiN, @Displax, @GtrCraft, @BlackSoulxxx, @rdis, @yazakachka, @tepsys, @DjLeleX, @ipdev, @xuxu1, @spacedingo (Github), @Howard20181 (Github), @SyberHexen (Github)
+
+# Motorola Moto E 2020 (10):Motorola:moto e=motorola/ginna_retail/ginna:10/QPG30.82-141/84c8d:user/release-keys__2021-02-01
