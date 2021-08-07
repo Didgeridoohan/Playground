@@ -9,7 +9,7 @@ PRINTSTRANSF=1
 # Certified fingerprints
 PRINTSLIST="
 Asus Zenfone 8 Mini Europe ASUS_I006D (11):Asus:ASUS_I006D=asus/EU_I006D/ASUS_I006D:11/RKQ1.201022.002/30.11.51.83:user/release-keys__2021-05-05
-Asus Zenfone 8 Mini Global ASUS_I006D (11):Asus:ASUS_I006D=asus/WW_I006D/ASUS_I006D:11/RKQ1.201022.002/30.11.51.67:user/release-key__2021-04-05
+Asus Zenfone 8 Mini Global ASUS_I006D (11):Asus:ASUS_I006D=asus/WW_I006D/ASUS_I006D:11/RKQ1.201022.002/30.11.51.67:user/release-keys__2021-04-05
 Google Pixel 3 (11)=google/blueline/blueline:11/RQ3A.210705.001/7380771:user/release-keys__2021-07-05
 Google Pixel 3 XL (11)=google/crosshatch/crosshatch:11/RQ3A.210705.001/7380771:user/release-keys__2021-07-05
 Google Pixel 3a (11)=google/sargo/sargo:11/RQ3A.210705.001/7380771:user/release-keys__2021-07-05
