@@ -101,7 +101,7 @@ Xiaomi Mi A3 Global (11)=Xiaomi/laurel_sprout/laurel_sprout:11/RKQ1.200903.002/V
 "
 
 # Contributors:
-# @Some_Random_Username, @Dhaval Bhramkhatri, @Last_SiN, @Displax, @GtrCraft, @BlackSoulxxx, @rdis, @yazakachka, @tepsys, @DjLeleX, @ipdev, @xuxu1, @spacedingo (Github), @Howard20181 (Github), @SyberHexen (Github)
+# @Some_Random_Username, @Dhaval Bhramkhatri, @Last_SiN, @Displax, @GtrCraft, @BlackSoulxxx, @rdis, @yazakachka, @tepsys, @DjLeleX, @ipdev, @xuxu1, @spacedingo (Github), @Howard20181 (Github), @SyberHexen (Github), @CHT45
 
 # Failed prints:
 # Motorola Moto E 2020 (10):Motorola:moto e=motorola/ginna_retail/ginna:10/QPG30.82-141/84c8d:user/release-keys__2021-02-01
