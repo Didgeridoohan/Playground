@@ -77,6 +77,7 @@ OPPO Find X2 Neo Europe CPH2009 (11):OPPO:CPH2009=OPPO/CPH2009EEA/OP4C2DL1:11/RK
 POCO F2 Pro Global (11)=POCO/lmi_global/lmi:11/RKQ1.200826.002/V12.5.1.0.RJKMIXM:user/release-keys__2021-06-01
 POCO M3 Pro 5G Indonesia (11):POCO:M2103K19PG=POCO/camellian_p_id/camellian:11/RP1A.200720.011/V12.0.3.0.RKSIDXM:user/release-keys__2021-06-01
 POCO X3 NFC Global (11)=POCO/surya_global/surya:11/RKQ1.200826.002/V12.0.1.0.RJGMIXM:user/release-keys__2021-05-01
+POCO X3 NFC Global (11)=POCO/surya_global/surya:11/RKQ1.200826.002/V12.5.1.0.RJGMIXM:user/release-keys__2021-07-01
 Redmi Note 8 Pro Europe (11)=Redmi/begonia_eea/begonia:11/RP1A.200720.011/V12.5.2.0.RGGEUXM:user/release-keys__2021-07-01
 Redmi Note 9S Global (11)=Redmi/curtana_global/curtana:11/RKQ1.200826.002/V12.0.2.0.RJWMIXM:user/release-keys__2021-04-01
 Realme XT RMX1921 (10):Realme:RMX1921=realme/RMX1921/RMX1921:10/QKQ1.190918.001/1619577165:user/release-keys__2021-05-05
