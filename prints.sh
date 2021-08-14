@@ -11,7 +11,7 @@ PRINTSLIST="
 "
 
 # Contributors:
-# @NOS_bzone, @Last_SiN, @ysc3839 (GitHub)
+# 
 
 # Failed prints:
 
