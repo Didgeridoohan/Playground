@@ -54,6 +54,9 @@ OnePlus Nord 2 DN2103 Europe (11):OnePlus:DN2103=OnePlus/DN2103EEA/OP515BL1:11/R
 OnePlus Nord 2 DN2101 India (11):OnePlus:DN2101=OnePlus/DN2101IND/OP515BL1:11/RP1A.200720.011/1629889893415:user/release-keys__2021-08-05
 OnePlus Nord N200 DE2117 Global (11):OnePlus:DE2117=OnePlus/OnePlusN200/OnePlusN200:11/RKQ1.201217.002/2107241556:user/release-keys__2021-07-01
 OnePlus Nord N200 DE2118 T-Mobile (11):OnePlus:DE2118=OnePlus/OnePlusN200TMO/OnePlusN200TMO:11/RKQ1.201217.002/2106072347:user/release-keys__2021-05-01
+
+Xiaomi Mi A3 GL (11)=Xiaomi/laurel_sprout/laurel_sprout:11/RKQ1.200903.002/V12.0.14.0.RFQMIXM:user/release-keys__2021-09-05
+Xiaomi Mi A3 EU (11)=Xiaomi/laurel_sprout_eea/laurel_sprout:11/RKQ1.200903.002/V12.0.11.0.RFQEUXM:user/release-keys__2021-08-05
 "
 
 # Contributors:
