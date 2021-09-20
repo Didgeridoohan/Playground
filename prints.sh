@@ -8,9 +8,6 @@ PRINTSTRANSF=1
 
 # Certified fingerprints
 PRINTSLIST="
-Asus Smartphone for Snapdragon Insiders ASUS_I007D (11):asus:ASUS_I007D=asus/WW_I007D/ASUS_I007_1:11/RKQ1.201112.002/18.1030.2107.138-0:user/release-keys__2021-07-01
-Xiaomi Mi 10 Lite 5G Global (11)=Xiaomi/monet_global/monet:11/RKQ1.200826.002/V12.5.3.0.RJITWXM:user/release-keys__2021-07-01
-Xiaomi Mi 11 Lite 4G Indonesia (11)=Xiaomi/courbet_id/courbet:11/RKQ1.200826.002/V12.5.1.0.RKQIDXM:user/release-keys__2021-06-01
 "
 
 # Contributors:
