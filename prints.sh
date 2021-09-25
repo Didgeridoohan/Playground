@@ -8,10 +8,11 @@ PRINTSTRANSF=1
 
 # Certified fingerprints
 PRINTSLIST="
-Pioneer SDA-8TAB (9):worldchip:SDA-8TAB=Pioneer/SDA_8TAB_XEEU5_EEA/SDA_8TAB:9/PPR1.181005.003/20200715-141328:user/release-keys__2020-07-05
+Xiaomi Mi 9T Global (11)=Xiaomi/raphael/raphael:11/RKQ1.200826.002/V12.5.2.0.RFKMIXM:user/release-keys__2021-07-01
+Xiaomi Redmi K20 Pro China (11)=Xiaomi/raphael/raphael:11/RKQ1.200826.002/V12.5.5.0.RFKCNXM:user/release-keys__2021-07-01
 "
 
 # Contributors:
-@Lefteris Fragiadakis (Frago)
+# @liwenjie119 at Github
 
 # Failed prints:
