@@ -23,7 +23,6 @@ OnePlus 9 (12)=OnePlus/OnePlus9/OnePlus9:12/SKQ1.210216.001/R.202109102211:user/
 OnePlus 9 India (12)=OnePlus/OnePlus9_IND/OnePlus9:12/SKQ1.210216.001/R.202109102211:user/release-keys__2021-09-05
 OnePlus 9 Pro (12)=OnePlus/OnePlus9Pro/OnePlus9Pro:12/SKQ1.210216.001/R.202109102211:user/release-keys__2021-09-05
 OnePlus 9 Pro India (12)=OnePlus/OnePlus9Pro_IND/OnePlus9Pro:12/SKQ1.210216.001/R.202109011609:user/release-keys__2021-09-05
-Samsung Galaxy J8 SM-J810M (10):Samsung:SM-J810M=samsung/j8y18lteub/j8y18lte:10/QP1A.190711.020/J810MUBU3CUF1:user/release-keys__2021-06-01
 Xiaomi Mi 9T Europe (11)=Xiaomi/davinci_eea/davinci:11/RKQ1.200826.002/V12.1.1.0.RFJEUXM:user/release-keys__2021-08-01
 Xiaomi Mi 9T Pro Global (11)=Xiaomi/raphael/raphael:11/RKQ1.200826.002/V12.5.2.0.RFKMIXM:user/release-keys__2021-07-01
 Xiaomi Redmi K20 Europe (11)=Xiaomi/davinci_eea/davinci:11/RKQ1.200826.002/V12.1.1.0.RFJEUXM:user/release-keys__2021-08-01
@@ -31,6 +30,7 @@ Xiaomi Redmi K20 Pro China (11)=Xiaomi/raphael/raphael:11/RKQ1.200826.002/V12.5.
 "
 
 # Contributors:
-# @liwenjie119 at Github, @Some_Random_Username, @MarceloASG, @Displax, @zgfg
+# @liwenjie119 at Github, @Some_Random_Username, @Displax, @zgfg
 
 # Failed prints:
+# Samsung Galaxy J8 SM-J810M (10):Samsung:SM-J810M=samsung/j8y18lteub/j8y18lte:10/QP1A.190711.020/J810MUBU3CUF1:user/release-keys__2021-06-01, @MarceloASG
