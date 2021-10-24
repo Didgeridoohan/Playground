@@ -18,12 +18,24 @@ Google Pixel 4a (11)=google/sunfish/sunfish:11/RQ3A.211001.001/7641976:user/rele
 Google Pixel 4a 5G (11)=google/bramble/bramble:11/RQ3A.211001.001/7641976:user/release-keys__2021-10-01
 Google Pixel 5 (11)=google/redfin/redfin:11/RQ3A.211001.001/7641976:user/release-keys__2021-10-01
 Google Pixel 5a (11)=google/barbet/barbet:11/RD2A.211001.002/7644766:user/release-keys__2021-10-01
+Google Pixel 3 (12)=google/blueline/blueline:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05
+Google Pixel 3 XL (12)=google/crosshatch/crosshatch:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05
+Google Pixel 3a (12)=google/sargo/sargo:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05
+Google Pixel 3a XL (12)=google/bonito/bonito:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05
+Google Pixel 4 (12)=google/flame/flame:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05
+Google Pixel 4 XL (12)=google/coral/coral:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05
+Google Pixel 4a (12)=google/sunfish/sunfish:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05
+Google Pixel 4a 5G (12)=google/bramble/bramble:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05
+Google Pixel 5 (12)=google/redfin/redfin:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05
+Google Pixel 5a (12)=google/barbet/barbet:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05
 LG G8 ThinQ (11):LGE:LM-G850l=lge/mh2lm/mh2lm:11/RKQ1.210420.001/211980139c7f7:user/release-keys__2021-07-01
 Nokia 6.1 Plus (10)=Nokia/Dragon_00WW/DRG_sprout:10/QKQ1.190828.002/00WW_4_15T:user/release-keys__2021-08-01
+OnePlus 6T (11)=OnePlus/OnePlus6T/OnePlus6T:11/RKQ1.201217.002/2109171636:user/release-keys__2021-09-01
 OnePlus 9 (12)=OnePlus/OnePlus9/OnePlus9:12/SKQ1.210216.001/R.202109102211:user/release-keys__2021-09-05
 OnePlus 9 India (12)=OnePlus/OnePlus9_IND/OnePlus9:12/SKQ1.210216.001/R.202109102211:user/release-keys__2021-09-05
 OnePlus 9 Pro (12)=OnePlus/OnePlus9Pro/OnePlus9Pro:12/SKQ1.210216.001/R.202109102211:user/release-keys__2021-09-05
 OnePlus 9 Pro India (12)=OnePlus/OnePlus9Pro_IND/OnePlus9Pro:12/SKQ1.210216.001/R.202109011609:user/release-keys__2021-09-05
+Samsung Galaxy S20 FE (11):Samsung:SM-G780F=samsung/r8sxx/r8s:11/RP1A.200720.012/G780FXXU5CUH1:user/release-keys__2021-08-01
 Xiaomi Mi 9T Europe (11)=Xiaomi/davinci_eea/davinci:11/RKQ1.200826.002/V12.1.1.0.RFJEUXM:user/release-keys__2021-08-01
 Xiaomi Mi 9T Pro Global (11)=Xiaomi/raphael/raphael:11/RKQ1.200826.002/V12.5.2.0.RFKMIXM:user/release-keys__2021-07-01
 Xiaomi Redmi 7 Europe (10):Xiaomi:Redmi 7=xiaomi/onc_eea/onc:10/QKQ1.191008.001/V11.0.3.0.QFLEUXM:user/release-keys__2021-07-01
@@ -35,4 +47,4 @@ Xiaomi Redmi K20 Pro China (11)=Xiaomi/raphael/raphael:11/RKQ1.200826.002/V12.5.
 # @liwenjie119 on Github, @Some_Random_Username, @Displax, @zgfg, @marciniuk on GitHub, @cocka11 on GitHub
 
 # Failed prints:
-# Samsung Galaxy J8 SM-J810M (10):Samsung:SM-J810M=samsung/j8y18lteub/j8y18lte:10/QP1A.190711.020/J810MUBU3CUF1:user/release-keys__2021-06-01, @MarceloASG
+# Samsung Galaxy J8 SM-J810M (10):Samsung:SM-J810M=samsung/j8y18lteub/j8y18lte:10/QP1A.190711.020/J810MUBU3CUF1:user/release-keys__2021-06-01, @MarceloASG, @vijaykanth, @ipdev
